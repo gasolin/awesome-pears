@@ -1,4 +1,4 @@
-## **Awesome Pears 🍐 **
+## **Awesome Pears 🍐**
 
 A collection of awesome things regarding the Pears ecosystem.
 
@@ -20,18 +20,27 @@ A collection of awesome things regarding the Pears ecosystem.
 ##### Video
 - [Build with Pear 🍐](https://www.youtube.com/watch?v=y2G97xz78gU&list=PLEZwCXa1K8Q629mWmpcSYCVMDoi0s8hzI) series
 
+
 #### Pears Desktop
 - [Keet.io](https://keet.io/) - P2P Instent Messenger
-  - ```pear run pear://keet```
+  - ```sh
+    pear run pear://keet
+    ```
 - [peerviewer](https://peerviewer.org/) - P2P remote desktop access
 - [pear-radio](https://github.com/holepunchto/pear-radio) - P2P music audio player/streamer
-  - ```pear run pear://tnu5wefezcdj79st747ai45msrmdqaeyrhgcjpt4n1kkymwci51y```
-  
-#### Pears Commandline
-- 🔧 [Bare Node](https://github.com/holepunchto/bare-node) - Node.js Compat modules builtins
+  - ```sh
+    pear run pear://tnu5wefezcdj79st747ai45msrmdqaeyrhgcjpt4n1kkymwci51y
+    ```
+
 
 #### Pears Mobile
 - [Keet.io](https://keet.io/) - P2P Instent Messenger
+
+
+#### Pears Terminal
+- Pear Runtime runs on [bare](https://github.com/holepunchto/bare), which is a cross-platform (including mobile) minimal JS runtime.
+- 🔧 [Bare Node](https://github.com/holepunchto/bare-node) - a Node.js Compat builtins modules to easier reuse normal node modules with bare runtime
+
 
 ### Contribution
 
