@@ -11,6 +11,7 @@ A collection of awesome things regarding the Pears ecosystem.
 #### Pears General Resources
 - [Pears Official Documentation](https://docs.pears.com/)
 - [Holepunch](https://holepunch.to/) - Company who invent the Pears
+- [Pear Source Code](https://github.com/holepunchto/pear)
 
 #### Pears Tutorials
 
