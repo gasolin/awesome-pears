@@ -32,6 +32,7 @@ A collection of awesome things regarding the Pears ecosystem.
   - ```sh
     pear run pear://tnu5wefezcdj79st747ai45msrmdqaeyrhgcjpt4n1kkymwci51y
     ```
+- [File Sharing React example](https://github.com/holepunchto/filesharing-react-app-example)
 
 
 #### Pears Mobile
