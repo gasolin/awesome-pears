@@ -5,6 +5,7 @@ A collection of awesome things regarding the Pears ecosystem.
 - [Pears](#pears)
   - [Pears General Resources](#pears-general-resources)
   - [Pears Tutorials](#pears-tutorials)
+- [Building Blocks](#building-blocks)
 
 ### Pears
 
@@ -27,7 +28,6 @@ A collection of awesome things regarding the Pears ecosystem.
   - ```sh
     pear run pear://keet
     ```
-- [peerviewer](https://peerviewer.org/) - P2P remote desktop access
 - [pear-radio](https://github.com/holepunchto/pear-radio) - P2P music audio player/streamer
   - ```sh
     pear run pear://tnu5wefezcdj79st747ai45msrmdqaeyrhgcjpt4n1kkymwci51y
@@ -44,6 +44,14 @@ A collection of awesome things regarding the Pears ecosystem.
 - Pear Runtime runs on [bare](https://github.com/holepunchto/bare), which is a cross-platform (including mobile) minimal JS runtime.
 - 🔧 [Bare Node](https://github.com/holepunchto/bare-node) - a Node.js Compat builtins modules to easier reuse normal node modules with bare runtime
 
+### App that also use Hypercore (but not pear)
+
+- [peerviewer](https://peerviewer.org/) - P2P remote desktop access
+
+### Building Blocks
+
+- [hyper-sdk](https://github.com/RangerMauve/hyper-sdk) - Software Development Kit for the hypercore-protocol
+- [nebula](https://github.com/Telios-org/nebula) - Nebula drives are real-time distributed storage for files and key value databases 
 
 ### Contribution
 
