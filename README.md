@@ -47,11 +47,14 @@ A collection of awesome things regarding the Pears ecosystem.
 ### App that also use Hypercore (but not pear)
 
 - [peerviewer](https://peerviewer.org/) - P2P remote desktop access
+- [blogging](https://github.com/rukmani887799/blogging) - simple blogging site using hyperbee
 
 ### Building Blocks
 
 - [hyper-sdk](https://github.com/RangerMauve/hyper-sdk) - Software Development Kit for the hypercore-protocol
-- [nebula](https://github.com/Telios-org/nebula) - Nebula drives are real-time distributed storage for files and key value databases 
+- [nebula](https://github.com/Telios-org/nebula) - Nebula drives are real-time distributed storage for files and key value databases
+- [ouroboros](https://github.com/lejeunerenard/ouroboros) - define derived indexes on autobase hyperbees
+- [pouchdb-adapter-hyperbee](https://github.com/RangerMauve/pouchdb-adapter-hyperbee) - Adapter for PouchDB to load p2p data from Hyperbee
 
 ### Contribution
 
