@@ -46,6 +46,7 @@ A collection of awesome things regarding the Pears ecosystem.
 
 ### App that also use Hypercore (but not pear)
 
+- [mapeo](https://www.digital-democracy.org/mapeo) - Mapeo is a free digital toolset for documenting, monitoring, and mapping many types of data
 - [peerviewer](https://peerviewer.org/) - P2P remote desktop access
 - [blogging](https://github.com/rukmani887799/blogging) - simple blogging site using hyperbee
 
