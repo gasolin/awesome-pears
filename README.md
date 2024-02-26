@@ -56,8 +56,8 @@ A collection of awesome things regarding the Pears ecosystem.
   - [hyperswam](https://docs.pears.com/building-blocks/hyperswarm) - discover and connect peers with a shared interest over a distributed network [Tutorial](https://docs.pears.com/how-tos/connect-to-many-peers-by-topic-with-hyperswarm)
 - [hypercore](https://docs.pears.com/building-blocks/hypercore) - feed for sharing large datasets and streams of real-time data [Tutorial](https://docs.pears.com/how-tos/replicate-and-persist-with-hypercore)
   - [corestore](https://docs.pears.com/building-blocks/corestore) - manage multiple named hypercores [Tutorial](https://docs.pears.com/how-tos/work-with-many-hypercores-using-corestore)
-  - [hyperbee](https://docs.pears.com/building-blocks/hyperbee) - log-like(append-only) key-value database
-  - [hyperdrive](https://docs.pears.com/building-blocks/hyperdrive) - a secure, real-time easy P2P file sharing
+  - [hyperbee](https://docs.pears.com/building-blocks/hyperbee) - log-like(append-only) key-value database [Tutorial](https://docs.pears.com/how-tos/share-append-only-databases-with-hyperbee)
+  - [hyperdrive](https://docs.pears.com/building-blocks/hyperdrive) - a secure, real-time easy P2P file sharing [Tutorial](https://docs.pears.com/how-tos/create-a-full-peer-to-peer-filesystem-with-hyperdrive)
 - typescript type definition for hypercore and related modules - [1](https://github.com/digidem/digidem-types/tree/main/vendor) 
 [2](https://github.com/digidem/mapeo-core-next/tree/main/types)
 - [hyper-sdk](https://github.com/RangerMauve/hyper-sdk) - Software Development Kit for the hypercore-protocol
