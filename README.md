@@ -51,6 +51,8 @@ A collection of awesome things regarding the Pears ecosystem.
 
 ### Building Blocks
 
+- typescript type definition for hypercore and related modules - [1](https://github.com/digidem/digidem-types/tree/main/vendor) 
+[2](https://github.com/digidem/mapeo-core-next/tree/main/types)
 - [hyper-sdk](https://github.com/RangerMauve/hyper-sdk) - Software Development Kit for the hypercore-protocol
 - [nebula](https://github.com/Telios-org/nebula) - Nebula drives are real-time distributed storage for files and key value databases
 - [ouroboros](https://github.com/lejeunerenard/ouroboros) - define derived indexes on autobase hyperbees
