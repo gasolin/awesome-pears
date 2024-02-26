@@ -52,6 +52,10 @@ A collection of awesome things regarding the Pears ecosystem.
 
 ### Building Blocks
 
+- [hyperswam](https://docs.pears.com/building-blocks/hyperswarm) - discover and connect peers with a shared interest over a distributed network 
+- [hypercore](https://docs.pears.com/building-blocks/hypercore) - feed for sharing large datasets and streams of real-time data
+  - [corestore](https://docs.pears.com/building-blocks/corestore) - manage multiple named hypercores
+- [hyperdrive](https://docs.pears.com/building-blocks/hyperdrive) - a secure, real-time easy P2P file sharing
 - typescript type definition for hypercore and related modules - [1](https://github.com/digidem/digidem-types/tree/main/vendor) 
 [2](https://github.com/digidem/mapeo-core-next/tree/main/types)
 - [hyper-sdk](https://github.com/RangerMauve/hyper-sdk) - Software Development Kit for the hypercore-protocol
