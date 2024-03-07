@@ -39,6 +39,8 @@ A collection of awesome things regarding the Pears ecosystem.
 - [Keet.io](https://keet.io/) - P2P Instent Messenger
 - [bare-android](https://github.com/holepunchto/bare-android) - Example of embedding Bare in an Android application
 - [bare-ios](https://github.com/holepunchto/bare-ios) - Example of embedding Bare in an iOS application
+- [pear-expo-hello-world](https://github.com/holepunchto/pear-expo-hello-world) - A Pear Runtime hello world using Bare with Expo
+- [pear-expo](https://github.com/gasolin/pear-expo) - React Native web (Expo) setup for pear desktop
 
 #### Pears Terminal
 - Pear Runtime runs on [bare](https://github.com/holepunchto/bare), which is a cross-platform (including mobile) minimal JS runtime.
