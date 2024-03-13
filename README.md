@@ -5,6 +5,7 @@ A collection of awesome things regarding the Pears ecosystem.
 - [Pears](#pears)
   - [Pears General Resources](#pears-general-resources)
   - [Pears Tutorials](#pears-tutorials)
+- [Keet Public Rooms](#keet-public-rooms)
 - [Building Blocks](#building-blocks)
 
 ### Pears
@@ -18,7 +19,7 @@ A collection of awesome things regarding the Pears ecosystem.
 
 ##### Article
 - [Getting Start Pears](https://docs.pears.com/guides/getting-started)
-  
+
 ##### Video
 - [Build with Pear 🍐](https://www.youtube.com/watch?v=y2G97xz78gU&list=PLEZwCXa1K8Q629mWmpcSYCVMDoi0s8hzI) series
 
@@ -51,6 +52,13 @@ A collection of awesome things regarding the Pears ecosystem.
 - [mapeo](https://www.digital-democracy.org/mapeo) - Mapeo is a free digital toolset for documenting, monitoring, and mapping many types of data
 - [peerviewer](https://peerviewer.org/) - P2P remote desktop access
 - [blogging](https://github.com/rukmani887799/blogging) - simple blogging site using hyperbee
+
+### Keet Public Rooms
+
+> Require install [Keet](https://keet.io) to join the room
+
+- [Pear Community](pear://keet/yry7g7wa7bmrjd1xxr7ce64581ij3hozq7589xfgxjrm74kgp34o36pwp46ohw4u1w63o6is6sax6j3swgdi66dmti8p8nfuyypfwewbuy)
+- [Bug Bandits🐞](pear://keet/yryskxsgye5j6se8mzzxqoygzion3zyo93iphxhew4pznn7sdbeat17cr5gaquoawe9iq7eipkez99qm6zpkouckg8sacci8bdkgmcdtoc)
 
 ### Building Blocks
 
