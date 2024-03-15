@@ -11,9 +11,10 @@ A collection of awesome things regarding the Pears ecosystem.
 ### Pears
 
 #### Pears General Resources
-- [Pears Official Documentation](https://docs.pears.com/) - [Document Source](https://github.com/holepunchto/pear-desktop)
-- [Holepunch](https://holepunch.to/) - Company who invent the Pears
+- [Pears website](https://pears.com/)
+- [Pears Official Documentation](https://docs.pears.com/) [Source](https://github.com/holepunchto/pear-docs)
 - [Pear Source Code](https://github.com/holepunchto/pear)
+- [Holepunch](https://holepunch.to/) - Company who invent the Pears
 
 #### Pears Tutorials
 
@@ -57,8 +58,11 @@ A collection of awesome things regarding the Pears ecosystem.
 
 > Require install [Keet](https://keet.io) to join the room
 
-- Pear Community - pear://keet/yry7g7wa7bmrjd1xxr7ce64581ij3hozq7589xfgxjrm74kgp34o36pwp46ohw4u1w63o6is6sax6j3swgdi66dmti8p8nfuyypfwewbuy
-- Bug Bandits🐞 - pear://keet/yryskxsgye5j6se8mzzxqoygzion3zyo93iphxhew4pznn7sdbeat17cr5gaquoawe9iq7eipkez99qm6zpkouckg8sacci8bdkgmcdtoc
+- [Pear Community](https://gasolin.idv.tw/keetlink)
+  > pear://keet/yry7g7wa7bmrjd1xxr7ce64581ij3hozq7589xfgxjrm74kgp34o36pwp46ohw4u1w63o6is6sax6j3swgdi66dmti8p8nfuyypfwewbuy
+- [Bug Bandits🐞](https://gasolin.idv.tw/keetlink/?title=Bug%20Bandits%F0%9F%90%9E&key=yryskxsgye5j6se8mzzxqoygzion3zyo93iphxhew4pznn7sdbeat17cr5gaquoawe9iq7eipkez99qm6zpkouckg8sacci8bdkgmcdtoc)
+  > pear://keet/yryskxsgye5j6se8mzzxqoygzion3zyo93iphxhew4pznn7sdbeat17cr5gaquoawe9iq7eipkez99qm6zpkouckg8sacci8bdkgmcdtoc
+- [keetlink](https://github.com/gasolin/keetlink) - share keet room invite via http link
 
 ### Building Blocks
 
