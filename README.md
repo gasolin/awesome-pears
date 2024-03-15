@@ -62,6 +62,8 @@ A collection of awesome things regarding the Pears ecosystem.
   > pear://keet/yry7g7wa7bmrjd1xxr7ce64581ij3hozq7589xfgxjrm74kgp34o36pwp46ohw4u1w63o6is6sax6j3swgdi66dmti8p8nfuyypfwewbuy
 - [Bug Bandits🐞](https://gasolin.idv.tw/keetlink/?title=Bug%20Bandits%F0%9F%90%9E&key=yryskxsgye5j6se8mzzxqoygzion3zyo93iphxhew4pznn7sdbeat17cr5gaquoawe9iq7eipkez99qm6zpkouckg8sacci8bdkgmcdtoc)
   > pear://keet/yryskxsgye5j6se8mzzxqoygzion3zyo93iphxhew4pznn7sdbeat17cr5gaquoawe9iq7eipkez99qm6zpkouckg8sacci8bdkgmcdtoc
+- [@bitcoin 🔥](https://gasolin.idv.tw/keetlink/?title=%40bitcoin%20%F0%9F%94%A5&key=yryi1hwghpzckutgu89ihjyjuq54gmwh3541z5q6tf7ywxy74yschfm8rjtumpbjywfkgfo8ajidx9fr8dtb6z55g5jrzgt6q4uorrj1cy)
+  > pear://keet/yryi1hwghpzckutgu89ihjyjuq54gmwh3541z5q6tf7ywxy74yschfm8rjtumpbjywfkgfo8ajidx9fr8dtb6z55g5jrzgt6q4uorrj1cy
 - [keetlink](https://github.com/gasolin/keetlink) - share keet room invite via http link
 
 ### Building Blocks
