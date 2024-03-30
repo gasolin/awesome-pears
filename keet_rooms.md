@@ -1,11 +1,11 @@
 # Keet Public Rooms
 
-> Require install [Keet](https://keet.io) to join the room
 > Can fork [keetlink](https://github.com/gasolin/keetlink) to share keet room invite via web (http)
+Or install [Keet](https://keet.io) first to join the room.
 
 #### Pear & Keet relate rooms
 
-- [🍐 The Pear Portal ⚡]([https://gasolin.idv.tw/keetlink/#key=yry3g16rrjn5zhxcuo548sqd3bsere7bmx6g4dph7u5tpz5cj67csuk7gfxaynewytyc3aip4qc946jgwhou8mdf1xpujzz4y4qqbcdn1a&title=Pear Portal](https://gasolin.idv.tw/keetlink/#key=yry3g16rrjn5zhxcuo548sqd3bsere7bmx6g4dph7u5tpz5cj67csuk7gfxaynewytyc3aip4qc946jgwhou8mdf1xpujzz4y4qqbcdn1a&title=The%20Pear%20Portal%E2%9C%B5))
+- [🍐 The Pear Portal ⚡](https://gasolin.idv.tw/keetlink/#key=yry3g16rrjn5zhxcuo548sqd3bsere7bmx6g4dph7u5tpz5cj67csuk7gfxaynewytyc3aip4qc946jgwhou8mdf1xpujzz4y4qqbcdn1a&title=The%20Pear%20Portal%E2%9C%B5)
   > pear://keet/yry3g16rrjn5zhxcuo548sqd3bsere7bmx6g4dph7u5tpz5cj67csuk7gfxaynewytyc3aip4qc946jgwhou8mdf1xpujzz4y4qqbcdn1a
 - [Pear Community](https://gasolin.idv.tw/keetlink) - general Keet or Pears discussion
   > pear://keet/yry7g7wa7bmrjd1xxr7ce64581ij3hozq7589xfgxjrm74kgp34o36pwp46ohw4u1w63o6is6sax6j3swgdi66dmti8p8nfuyypfwewbuy
