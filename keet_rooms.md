@@ -1,7 +1,6 @@
 # Keet Public Rooms
 
-> Can fork [keetlink](https://github.com/gasolin/keetlink) to share keet room invite via web (http)
-Or install [Keet](https://keet.io) first to join the room.
+> Share keet room invites. If you can't join, install [Keet](https://keet.io) to join the room.
 
 #### Pear & Keet relate rooms
 
