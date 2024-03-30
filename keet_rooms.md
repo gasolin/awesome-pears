@@ -21,3 +21,7 @@ Or install [Keet](https://keet.io) first to join the room.
   > pear://keet/yryi1hwghpzckutgu89ihjyjuq54gmwh3541z5q6tf7ywxy74yschfm8rjtumpbjywfkgfo8ajidx9fr8dtb6z55g5jrzgt6q4uorrj1cy
 - [👽 AREA 51, psyops, conspiracies and more.](https://gasolin.idv.tw/keetlink/#key=yryo3oqxkdshyg59afpc9f5ua9k4p1nj4os4wosx8tceq6w19k63wtqfh77np8rqdc4po7i3krosdwc9ff686cy5xtnt9etxbogw76nbqe&title=AREA%2051%2C%20psyops%2C%20conspiracies%20and%20more.) - discuss uncensorable fringe topics
   > pear://keet/yryo3oqxkdshyg59afpc9f5ua9k4p1nj4os4wosx8tceq6w19k63wtqfh77np8rqdc4po7i3krosdwc9ff686cy5xtnt9etxbogw76nbqe
+
+### How to Add my room?
+
+Use chatGPT and follow the [instruction](https://github.com/gasolin/keetlink/blob/main/README.md#how-i-turn-my-invite-link-to-a-web-link)
