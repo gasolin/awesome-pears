@@ -69,6 +69,7 @@ A collection of awesome things regarding the Pears ecosystem.
 - [@bitcoin 🔥](https://gasolin.idv.tw/keetlink/#key=yryi1hwghpzckutgu89ihjyjuq54gmwh3541z5q6tf7ywxy74yschfm8rjtumpbjywfkgfo8ajidx9fr8dtb6z55g5jrzgt6q4uorrj1cy&title=%40bitcoin%20%F0%9F%94%A5)
   > pear://keet/yryi1hwghpzckutgu89ihjyjuq54gmwh3541z5q6tf7ywxy74yschfm8rjtumpbjywfkgfo8ajidx9fr8dtb6z55g5jrzgt6q4uorrj1cy
 - [keetlink](https://github.com/gasolin/keetlink) - single page tool to share keet room invite via http
+- [👽 AREA 51, psyops, conspiracies and more.](https://gasolin.idv.tw/keetlink/?title=%F0%9F%91%BD%20AREA%20251%2C%20psyops%2C%20conspiracies%20and%20more.&key=yryuugnpprkdtipybxhfaiox3ptymkuzq1aaotuqoarcacsdw7tx1uqfh77np8rqdc4po7i3krosdwc9ff686cy5xtnt9etxbogw76nbqe) - come in and discuss uncensorable fringe topics.
 
 ### Building Blocks
 
