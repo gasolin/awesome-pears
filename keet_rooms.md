@@ -30,6 +30,8 @@
 
 ## Broadcast Feed Rooms
 
+- [Keet News](https://gasolin.idv.tw/keetlink/#key=yry5dqgiy967ffrrbi973ghfb4wsbtczezsomgp4z8s8nn68eyg5kgdyjc1b7dh4gbxkh9apmzn8szr3wdyosa8bdbmja47pp48pjmf7dh&title=Keet%20News)
+  > pear://keet/yry5dqgiy967ffrrbi973ghfb4wsbtczezsomgp4z8s8nn68eyg5kgdyjc1b7dh4gbxkh9apmzn8szr3wdyosa8bdbmja47pp48pjmf7dh
 - [The Guy Swann Network](https://gasolin.idv.tw/keetlink/#key=yryafhr3ogbimoqcigoxnpxdsgizxg6i5heburmoydrykx6wtpe4p9m6jqssar5gtsyta9fjwwy7rdn8n8xfibdhymkxyigzyg1wnr8gey&title=The%20Guy%20Swann%20Network)
   > pear://keet/yryafhr3ogbimoqcigoxnpxdsgizxg6i5heburmoydrykx6wtpe4p9m6jqssar5gtsyta9fjwwy7rdn8n8xfibdhymkxyigzyg1wnr8gey
 
