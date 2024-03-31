@@ -34,6 +34,8 @@
   > pear://keet/yry5dqgiy967ffrrbi973ghfb4wsbtczezsomgp4z8s8nn68eyg5kgdyjc1b7dh4gbxkh9apmzn8szr3wdyosa8bdbmja47pp48pjmf7dh
 - [The Guy Swann Network](https://gasolin.idv.tw/keetlink/#key=yryafhr3ogbimoqcigoxnpxdsgizxg6i5heburmoydrykx6wtpe4p9m6jqssar5gtsyta9fjwwy7rdn8n8xfibdhymkxyigzyg1wnr8gey&title=The%20Guy%20Swann%20Network)
   > pear://keet/yryafhr3ogbimoqcigoxnpxdsgizxg6i5heburmoydrykx6wtpe4p9m6jqssar5gtsyta9fjwwy7rdn8n8xfibdhymkxyigzyg1wnr8gey
+- [🍐Pear Portal⚡ *Broadcast*](https://gasolin.idv.tw/keetlink/#key=yry98p9nixg4wwfx7gst3ucq8m1wu16sscrxmp6sidrd17w3gs1pgkbsymcjkjxatxn54d45d1fhygaqo9n8sgrrerus58cjstyqnstsiw&title=%F0%9F%8D%90Pear%20Portal%E2%9A%A1%20*Broadcast*)
+  > pear://keet/yry98p9nixg4wwfx7gst3ucq8m1wu16sscrxmp6sidrd17w3gs1pgkbsymcjkjxatxn54d45d1fhygaqo9n8sgrrerus58cjstyqnstsiw
 
 ### How to Add my room?
 
