@@ -2,6 +2,9 @@
 
 > Share keet room invites. If you can't join, install [Keet](https://keet.io) to join the room.
 
+- [Group Chat Rooms](https://github.com/gasolin/awesome-pears/edit/main/keet_rooms.md#group-chat-rooms)
+- [Broadcast Feed Rooms](https://github.com/gasolin/awesome-pears/edit/main/keet_rooms.md#broadcast-feed-rooms)
+
 ## Group Chat Rooms
 
 #### Pear & Keet relate
