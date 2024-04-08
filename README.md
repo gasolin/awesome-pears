@@ -77,7 +77,8 @@ See [Keet Public Rooms](keet_rooms.md)
 - [nebula](https://github.com/Telios-org/nebula) - Nebula drives are real-time distributed storage for files and key value databases
 - [ouroboros](https://github.com/lejeunerenard/ouroboros) - define derived indexes on autobase hyperbees
 - [pouchdb-adapter-hyperbee](https://github.com/RangerMauve/pouchdb-adapter-hyperbee) - Adapter for PouchDB to load p2p data from Hyperbee
-
+- [agreeable](https://github.com/ryanramage/agreeable) - Type friendly agreements between peers for rpc and forms
+  
 ### Contribution
 
 We focus on sharing entirely free resources here. Please feel free to propose updates for outdated projects and articles, as well as new contributions. Your input and suggestions are wholeheartedly♡ appreciated. (✿◠‿◠)
