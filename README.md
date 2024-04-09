@@ -52,6 +52,7 @@ A collection of awesome things regarding the Pears ecosystem.
 
 - [blogging](https://github.com/rukmani887799/blogging) - simple blogging site using hyperbee
 - [holesail](https://holesail.io/docs/introduction) - Create P2P tunnels instantly that bypass any network, firewall, NAT restrictions and expose your local network to the internet securely, no Dynamic DNS required.
+- [hyperbeam](https://github.com/holepunchto/hyperbeam) - A 1-1 end-to-end encrypted file transfer tool
 - [mapeo](https://www.digital-democracy.org/mapeo) - Mapeo is a free digital toolset for documenting, monitoring, and mapping many types of data
 - [peerviewer](https://peerviewer.org/) - P2P remote desktop access
 
