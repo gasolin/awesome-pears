@@ -45,6 +45,7 @@ A collection of awesome things regarding the Pears ecosystem.
 - [pear-expo](https://github.com/gasolin/pear-expo) - React Native web (Expo) setup for pear desktop
 
 #### Pears Terminal
+- [holesail](https://holesail.io/docs/introduction) - Create P2P tunnels instantly that bypass any network, firewall, NAT restrictions and expose your local network to the internet securely, no Dynamic DNS required.
 - Pear Runtime runs on [bare](https://github.com/holepunchto/bare), which is a cross-platform (including mobile) minimal JS runtime.
 - 🔧 [Bare Node](https://github.com/holepunchto/bare-node) - a Node.js Compat builtins modules to easier reuse normal node modules with bare runtime
 
