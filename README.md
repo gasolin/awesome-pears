@@ -45,15 +45,15 @@ A collection of awesome things regarding the Pears ecosystem.
 - [pear-expo](https://github.com/gasolin/pear-expo) - React Native web (Expo) setup for pear desktop
 
 #### Pears Terminal
-- [holesail](https://holesail.io/docs/introduction) - Create P2P tunnels instantly that bypass any network, firewall, NAT restrictions and expose your local network to the internet securely, no Dynamic DNS required.
 - Pear Runtime runs on [bare](https://github.com/holepunchto/bare), which is a cross-platform (including mobile) minimal JS runtime.
 - 🔧 [Bare Node](https://github.com/holepunchto/bare-node) - a Node.js Compat builtins modules to easier reuse normal node modules with bare runtime
 
 ### App that also use Hypercore (but not pear)
 
+- [blogging](https://github.com/rukmani887799/blogging) - simple blogging site using hyperbee
+- [holesail](https://holesail.io/docs/introduction) - Create P2P tunnels instantly that bypass any network, firewall, NAT restrictions and expose your local network to the internet securely, no Dynamic DNS required.
 - [mapeo](https://www.digital-democracy.org/mapeo) - Mapeo is a free digital toolset for documenting, monitoring, and mapping many types of data
 - [peerviewer](https://peerviewer.org/) - P2P remote desktop access
-- [blogging](https://github.com/rukmani887799/blogging) - simple blogging site using hyperbee
 
 ### Keet Public Rooms
 
