@@ -21,6 +21,10 @@
 #### Other Rooms
 - [@bitcoin 🔥](https://gasolin.idv.tw/keetlink/#key=yryi1hwghpzckutgu89ihjyjuq54gmwh3541z5q6tf7ywxy74yschfm8rjtumpbjywfkgfo8ajidx9fr8dtb6z55g5jrzgt6q4uorrj1cy&title=%40bitcoin%20%F0%9F%94%A5) - Bitcoin related discussion
   > pear://keet/yryi1hwghpzckutgu89ihjyjuq54gmwh3541z5q6tf7ywxy74yschfm8rjtumpbjywfkgfo8ajidx9fr8dtb6z55g5jrzgt6q4uorrj1cy
+- [🇫🇷 Bitcoin en Français!](https://gasolin.idv.tw/keetlink/#key=yry9pxuwoxuidcy7ebtnjmjg9af1u3dn7g386r5nge8bxsdg14dsckomcier4eg4nq69j8orinwt8ycuasibhusjq65kddk9ta6r5jt5jo&title=%F0%9F%87%AB%F0%9F%87%B7%20Bitcoin%20en%20Fran%C3%A7ais!)
+  > pear://keet/yry9pxuwoxuidcy7ebtnjmjg9af1u3dn7g386r5nge8bxsdg14dsckomcier4eg4nq69j8orinwt8ycuasibhusjq65kddk9ta6r5jt5jo
+- [Deutscher Keet Raum](https://gasolin.idv.tw/keetlink/#key=yry3uyqk6idtwawmb7i91xoufw48j3ykow3kgqiazenorhi414duwmi74qogwmycnbo47wfqrhe6inpqqcfhpbr86hobui64fiyctpx7hc&title=Deutscher%20Keet%20Raum)
+  > pear://keet/yry3uyqk6idtwawmb7i91xoufw48j3ykow3kgqiazenorhi414duwmi74qogwmycnbo47wfqrhe6inpqqcfhpbr86hobui64fiyctpx7hc
 - [👽 AREA 51, psyops, conspiracies and more.](https://gasolin.idv.tw/keetlink/#key=yryo3oqxkdshyg59afpc9f5ua9k4p1nj4os4wosx8tceq6w19k63wtqfh77np8rqdc4po7i3krosdwc9ff686cy5xtnt9etxbogw76nbqe&title=AREA%2051%2C%20psyops%2C%20conspiracies%20and%20more.) - discuss uncensorable fringe topics
   > pear://keet/yryo3oqxkdshyg59afpc9f5ua9k4p1nj4os4wosx8tceq6w19k63wtqfh77np8rqdc4po7i3krosdwc9ff686cy5xtnt9etxbogw76nbqe
 - [🎒 SSC Bitcoin Meetup 📚](https://gasolin.idv.tw/keetlink/#key=yry64tynpz39z6zkcd1u6zofp914386ym59kgtjpuaxusfrqpe6akgd3okn6x1s454b7aw7o3burbekeo65bj864ib5pr1u4cqqkiuf9nr&title=%F0%9F%8E%92%20SSC%20Bitcoin%20Meetup%20%F0%9F%93%9A)
