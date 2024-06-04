@@ -26,6 +26,10 @@ A collection of awesome things regarding the Pears ecosystem.
 
 
 #### Pears Desktop
+- Pear runtime - self contained Pear runtime
+  - ```sh
+    pear run pear://runtime
+    ``` 
 - [Keet.io](https://keet.io/) - P2P Instent Messenger
   - ```sh
     pear run pear://keet
