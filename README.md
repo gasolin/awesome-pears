@@ -26,6 +26,7 @@ A collection of awesome things regarding the Pears ecosystem.
 
 
 #### Pears Desktop
+- run `npm i -g pear` to install the pear command ([nodejs](https://nodejs.org/) is required)
 - Pear runtime - self contained Pear runtime
   - ```sh
     pear run pear://runtime
