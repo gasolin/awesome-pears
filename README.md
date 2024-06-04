@@ -40,7 +40,7 @@ A collection of awesome things regarding the Pears ecosystem.
     pear run pear://tnu5wefezcdj79st747ai45msrmdqaeyrhgcjpt4n1kkymwci51y
     ```
 - [File Sharing React example](https://github.com/holepunchto/filesharing-react-app-example)
-
+- [PearPass](https://github.com/MKPLKN/peer-pass-backend) - your digital life manager, Pure P2P, everything is encrypted by default.
 
 #### Pears Mobile
 - [Keet.io](https://keet.io/) - P2P Instent Messenger
@@ -60,7 +60,7 @@ A collection of awesome things regarding the Pears ecosystem.
 - [hyperbeam](https://github.com/holepunchto/hyperbeam) - A 1-1 end-to-end encrypted file transfer tool
 - [mapeo](https://www.digital-democracy.org/mapeo) - Mapeo is a free digital toolset for documenting, monitoring, and mapping many types of data
 - [peerviewer](https://peerviewer.org/) - P2P remote desktop access
-- [trollbox](https://www.peertopeerhub.com/trollbox) - P2P trollbox that anyone can acces
+- [trollbox](https://www.peertopeerhub.com/trollbox) - P2P trollbox that anyone can access
 
 ### Keet Public Rooms
 
