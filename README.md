@@ -41,13 +41,23 @@ A collection of awesome things regarding the Pears ecosystem.
     ```
 - [File Sharing React example](https://github.com/holepunchto/filesharing-react-app-example)
 - [PearPass](https://github.com/MKPLKN/peer-pass-backend) - your digital life manager, Pure P2P, everything is encrypted by default.
+- [pear-expo](https://github.com/gasolin/pear-expo) - React Native web (Expo) setup for pear desktop
+- [hyperclip-desktop](https://github.com/holepunchto/hyperclip-desktop)
 
 #### Pears Mobile
+
 - [Keet.io](https://keet.io/) - P2P Instent Messenger
-- [bare-android](https://github.com/holepunchto/bare-android) - Example of embedding Bare in an Android application
-- [bare-ios](https://github.com/holepunchto/bare-ios) - Example of embedding Bare in an iOS application
 - [pear-expo-hello-world](https://github.com/holepunchto/pear-expo-hello-world) - A Pear Runtime hello world using Bare with Expo
-- [pear-expo](https://github.com/gasolin/pear-expo) - React Native web (Expo) setup for pear desktop
+
+##### Android
+
+- [bare-android](https://github.com/holepunchto/bare-android) - Example of embedding Bare in an Android application
+- [hyperclip-android](https://github.com/holepunchto/hyperclip-android) - send clipboard content from Desktop to Android
+ 
+##### iOS
+
+- [bare-ios](https://github.com/holepunchto/bare-ios) - Example of embedding Bare in an iOS application
+- [hyperclip-android](https://github.com/holepunchto/hyperclip-ios) - send clipboard content from Desktop to Android
 
 #### Pears Terminal
 - Pear Runtime runs on [bare](https://github.com/holepunchto/bare), which is a cross-platform (including mobile) minimal JS runtime.
