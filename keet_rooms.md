@@ -47,6 +47,8 @@
 
 - [Keet News](https://gasolin.idv.tw/keetlink/#key=yry5dqgiy967ffrrbi973ghfb4wsbtczezsomgp4z8s8nn68eyg5kgdyjc1b7dh4gbxkh9apmzn8szr3wdyosa8bdbmja47pp48pjmf7dh&title=Keet%20News) - Keet related News (Official)
   > pear://keet/yry5dqgiy967ffrrbi973ghfb4wsbtczezsomgp4z8s8nn68eyg5kgdyjc1b7dh4gbxkh9apmzn8szr3wdyosa8bdbmja47pp48pjmf7dh
+- [Pear News](https://gasolin.idv.tw/keetlink/#key=yrywm9jddjezudx7m9yt8i8rwszzfdiaq4xxijyj9uigag1u7odmgydujhtwbqk8bhubsgpwj73qd7nys3si53896ax13qd1nrmt68oh9y&title=Pear%20News) - Broadcast for Pear & Keet releases (Official)
+  > pear://keet/yrywm9jddjezudx7m9yt8i8rwszzfdiaq4xxijyj9uigag1u7odmgydujhtwbqk8bhubsgpwj73qd7nys3si53896ax13qd1nrmt68oh9y
 - [The Guy Swann Network](https://gasolin.idv.tw/keetlink/#key=yryafhr3ogbimoqcigoxnpxdsgizxg6i5heburmoydrykx6wtpe4p9m6jqssar5gtsyta9fjwwy7rdn8n8xfibdhymkxyigzyg1wnr8gey&title=The%20Guy%20Swann%20Network)
   > pear://keet/yryafhr3ogbimoqcigoxnpxdsgizxg6i5heburmoydrykx6wtpe4p9m6jqssar5gtsyta9fjwwy7rdn8n8xfibdhymkxyigzyg1wnr8gey
 - [🍐Pear Portal⚡ *Broadcast*](https://gasolin.idv.tw/keetlink/#key=yry98p9nixg4wwfx7gst3ucq8m1wu16sscrxmp6sidrd17w3gs1pgkbsymcjkjxatxn54d45d1fhygaqo9n8sgrrerus58cjstyqnstsiw&title=%F0%9F%8D%90Pear%20Portal%E2%9A%A1%20*Broadcast*) - the place to find public rooms
