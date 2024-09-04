@@ -57,7 +57,7 @@ A collection of awesome things regarding the Pears ecosystem.
 ##### iOS
 
 - [bare-ios](https://github.com/holepunchto/bare-ios) - Example of embedding Bare in an iOS application
-- [hyperclip-android](https://github.com/holepunchto/hyperclip-ios) - send clipboard content from Desktop to Android
+- [hyperclip-ios](https://github.com/holepunchto/hyperclip-ios) - send clipboard content from Desktop to iOS
 
 #### Pears Terminal
 - Pear Runtime runs on [bare](https://github.com/holepunchto/bare), which is a cross-platform (including mobile) minimal JS runtime.
