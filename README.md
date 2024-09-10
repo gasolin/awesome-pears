@@ -47,7 +47,8 @@ A collection of awesome things regarding the Pears ecosystem.
 #### Pears Mobile
 
 - [Keet.io](https://keet.io/) - P2P Instent Messenger
-- [pear-expo-hello-world](https://github.com/holepunchto/pear-expo-hello-world) - A Pear Runtime hello world using Bare with Expo
+- [pear-expo-hello-world](https://github.com/holepunchto/pear-expo-hello-world) - (Deprecated) A Pear Runtime hello world using Bare with Expo
+- [bare-expo](https://github.com/holepunchto/bare-expo) - Example of embedding Bare in an Expo application using bare-kit
 
 ##### Android
 
