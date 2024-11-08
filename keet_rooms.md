@@ -9,16 +9,18 @@
 
 #### Pear & Keet relate
 
-- [🍐 The Pear Portal ⚡](https://gasolin.idv.tw/keetlink/#key=yry3g16rrjn5zhxcuo548sqd3bsere7bmx6g4dph7u5tpz5cj67csuk7gfxaynewytyc3aip4qc946jgwhou8mdf1xpujzz4y4qqbcdn1a&title=The%20Pear%20Portal%E2%9C%B5) - the place to share public rooms
-  > pear://keet/yry3g16rrjn5zhxcuo548sqd3bsere7bmx6g4dph7u5tpz5cj67csuk7gfxaynewytyc3aip4qc946jgwhou8mdf1xpujzz4y4qqbcdn1a
 - [Pear Community](https://gasolin.idv.tw/keetlink) - general Keet or Pears discussion (Official)
   > pear://keet/yry7g7wa7bmrjd1xxr7ce64581ij3hozq7589xfgxjrm74kgp34o36pwp46ohw4u1w63o6is6sax6j3swgdi66dmti8p8nfuyypfwewbuy
 - [Bug Bandits🐞](https://gasolin.idv.tw/keetlink/#key=yryskxsgye5j6se8mzzxqoygzion3zyo93iphxhew4pznn7sdbeat17cr5gaquoawe9iq7eipkez99qm6zpkouckg8sacci8bdkgmcdtoc&title=Bug%20Bandits%F0%9F%90%9E) - report Keet related issue (Official)
   > pear://keet/yryskxsgye5j6se8mzzxqoygzion3zyo93iphxhew4pznn7sdbeat17cr5gaquoawe9iq7eipkez99qm6zpkouckg8sacci8bdkgmcdtoc
 - [🍐 Pear Development](https://gasolin.idv.tw/keetlink/#key=yryzix4muu85ocwke9njhfppkyjkkrhy15gdyam137jxhtu4ei6y43npudeidy49kiisp9mghefgfg4rcp7iww881sq5dm13syjuim7awr&title=%F0%9F%8D%90%20Pear%20Development) - pear development related discussion (Official)
   > pear://keet/yryzix4muu85ocwke9njhfppkyjkkrhy15gdyam137jxhtu4ei6y43npudeidy49kiisp9mghefgfg4rcp7iww881sq5dm13syjuim7awr
+- [🍐Pear Releases](https://gasolin.idv.tw/keetlink/#key=yryz1amkn987xzaam5iniq81bchawc4nj9qphsbcowu37zn9tkjzpn5ujhtwbqk8bhubsgpwj73qd7nys3si53896ax13qd1nrmt68oh9y&title=%F0%9F%8D%90%20Pear%20Releases)
+  > pear://keet/yryz1amkn987xzaam5iniq81bchawc4nj9qphsbcowu37zn9tkjzpn5ujhtwbqk8bhubsgpwj73qd7nys3si53896ax13qd1nrmt68oh9y
 - [dat-ecosystem](https://gasolin.idv.tw/keetlink/#key=yryosznkq3xiasbgjt3s5rmqpp6h7xdtrhc9wok3ug5mfp4ftf5dpxkh7ydzfknaij4ngmfaau8m1mm68zhnqwc933zfwydekued8ecfay&title=dat-ecosystem)
   > pear://keet/yryosznkq3xiasbgjt3s5rmqpp6h7xdtrhc9wok3ug5mfp4ftf5dpxkh7ydzfknaij4ngmfaau8m1mm68zhnqwc933zfwydekued8ecfay
+- [🍐 The Pear Portal ⚡](https://gasolin.idv.tw/keetlink/#key=yry3g16rrjn5zhxcuo548sqd3bsere7bmx6g4dph7u5tpz5cj67csuk7gfxaynewytyc3aip4qc946jgwhou8mdf1xpujzz4y4qqbcdn1a&title=The%20Pear%20Portal%E2%9C%B5) - the place to share public rooms
+  > pear://keet/yry3g16rrjn5zhxcuo548sqd3bsere7bmx6g4dph7u5tpz5cj67csuk7gfxaynewytyc3aip4qc946jgwhou8mdf1xpujzz4y4qqbcdn1a
 
 #### Other Rooms
 - [@bitcoin 🔥](https://gasolin.idv.tw/keetlink/#key=yryi1hwghpzckutgu89ihjyjuq54gmwh3541z5q6tf7ywxy74yschfm8rjtumpbjywfkgfo8ajidx9fr8dtb6z55g5jrzgt6q4uorrj1cy&title=%40bitcoin%20%F0%9F%94%A5) - Bitcoin related discussion
@@ -42,7 +44,7 @@
   > pear://keet/yry3uyqk6idtwawmb7i91xoufw48j3ykow3kgqiazenorhi414duwmi74qogwmycnbo47wfqrhe6inpqqcfhpbr86hobui64fiyctpx7hc
 - [Bitcoin Español](https://gasolin.idv.tw/keetlink/#key=yry6gj1f17hif7an1q3hqx79jaysrhsexk7sfnkeyrfhf9bc1m8n7kzfpu6i81zxyws79oxemaqig1wxrwps4h39ibyi1b7gtp3sju8mtr&title=Bitcoin%20Español)
   > pear://keet/yry6gj1f17hif7an1q3hqx79jaysrhsexk7sfnkeyrfhf9bc1m8n7kzfpu6i81zxyws79oxemaqig1wxrwps4h39ibyi1b7gtp3sju8mtr
-  
+
 ## Broadcast Feed Rooms
 
 - [Keet News](https://gasolin.idv.tw/keetlink/#key=yry5dqgiy967ffrrbi973ghfb4wsbtczezsomgp4z8s8nn68eyg5kgdyjc1b7dh4gbxkh9apmzn8szr3wdyosa8bdbmja47pp48pjmf7dh&title=Keet%20News) - Keet related News (Official)
@@ -55,6 +57,11 @@
   > pear://keet/yry98p9nixg4wwfx7gst3ucq8m1wu16sscrxmp6sidrd17w3gs1pgkbsymcjkjxatxn54d45d1fhygaqo9n8sgrrerus58cjstyqnstsiw
 - [blockdyor](https://gasolin.idv.tw/keetlink/#key=yryida3gphjhphby9mmynp9pq8hz4z9fxsaj54y3j95hb35o194mrduozk5g9naftgj195gek9xa94rph8qpuojxx576xqtspr1ctwb7oc&title=blockdyor)
   > pear://keet/yryida3gphjhphby9mmynp9pq8hz4z9fxsaj54y3j95hb35o194mrduozk5g9naftgj195gek9xa94rph8qpuojxx576xqtspr1ctwb7oc
+- [ECash News! 💸](https://gasolin.idv.tw/keetlink/#key=yryajhsmg8xwz9wr3zmijx33e7coajjri75iwbrm586h9iioqiz3nziiuubye69d73gk1wjqcbjkmqqzddhk1sccrqomu1y3zj77gya6re&title=ECash%20News)
+  > pear://keet/yryajhsmg8xwz9wr3zmijx33e7coajjri75iwbrm586h9iioqiz3nziiuubye69d73gk1wjqcbjkmqqzddhk1sccrqomu1y3zj77gya6re
+- [The Psychedelic Libertarian Repository](https://gasolin.idv.tw/keetlink/#key=yry7khzpxg1wfpppkk8m75orq47x6p4mcqrssj4xkyhtcbg1dp6wqbnkdtpe7u4pkubpkt4tykmjrpknr5an9ncjnw63w711x1q8pmkeqc&title=The%20Psychedelic%20Libertarian%20Repository)
+  > pear://keet/yry7khzpxg1wfpppkk8m75orq47x6p4mcqrssj4xkyhtcbg1dp6wqbnkdtpe7u4pkubpkt4tykmjrpknr5an9ncjnw63w711x1q8pmkeqc
+
 
 ### How to Add my room?
 
