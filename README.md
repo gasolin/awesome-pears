@@ -70,6 +70,7 @@ A collection of awesome things regarding the Pears ecosystem.
 
 - [blogging](https://github.com/rukmani887799/blogging) - simple blogging site using hyperbee
 - [holesail](https://holesail.io/docs/introduction) - Create P2P tunnels instantly that bypass any network, firewall, NAT restrictions and expose your local network to the internet securely, no Dynamic DNS required.
+- [kiwi](https://github.com/nexhero/Kiwi) - The server enables access to its resources outside a local network, allowing users to connect from anywhere in the world.
 - [hyperbeam](https://github.com/holepunchto/hyperbeam) - A 1-1 end-to-end encrypted file transfer tool
 - [mapeo](https://www.digital-democracy.org/mapeo) - Mapeo is a free digital toolset for documenting, monitoring, and mapping many types of data
 - [peerviewer](https://peerviewer.org/) - P2P remote desktop access
@@ -90,6 +91,7 @@ See [Keet Public Rooms](keet_rooms.md)
   - [corestore](https://docs.pears.com/building-blocks/corestore) - manage multiple named hypercores [Tutorial](https://docs.pears.com/how-tos/work-with-many-hypercores-using-corestore)
   - [hyperbee](https://docs.pears.com/building-blocks/hyperbee) - log-like(append-only) key-value database [Tutorial](https://docs.pears.com/how-tos/share-append-only-databases-with-hyperbee)
   - [hyperdrive](https://docs.pears.com/building-blocks/hyperdrive) - a secure, real-time easy P2P file sharing [Tutorial](https://docs.pears.com/how-tos/create-a-full-peer-to-peer-filesystem-with-hyperdrive)
+  - [hyperdb](https://github.com/holepunchto/hyperdb) - Database built for P2P and local indexing
   - [P2P indexing and search Tutorial](https://github.com/hypercore-protocol/p2p-indexing-and-search)
   - [autobase](https://github.com/holepunchto/autobase) - multiwriter data structures with Hypercore
 - typescript type definition for hypercore and related modules - [1](https://github.com/digidem/digidem-types/tree/main/vendor) 
