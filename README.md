@@ -65,7 +65,8 @@ A collection of awesome things regarding the Pears ecosystem.
 - 🔧 [Bare Node](https://github.com/holepunchto/bare-node) - a Node.js Compat builtins modules to easier reuse normal node modules with bare runtime
 - [Compatibility config for node stdlib](https://docs.pears.com/bare-reference/nodejs-compatibility-with-bare#config-for-the-node.js-stdlib) - config to compatible with node standard libraries
 - [bare-kit](https://github.com/holepunchto/bare-kit) - a web worker-like API to start and manage an isolated Bare thread, exposes an RPC abstraction with bindings for various languages
-
+- [brokeout room](https://github.com/ryanramage/breakout-room/tree/autobase) - create small short lived rooms in a p2p space
+ 
 ### App that also use Hypercore (but not pear)
 
 - [blogging](https://github.com/rukmani887799/blogging) - simple blogging site using hyperbee
