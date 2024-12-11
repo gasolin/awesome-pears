@@ -43,6 +43,7 @@ A collection of awesome things regarding the Pears ecosystem.
 - [PearPass](https://github.com/MKPLKN/peer-pass-backend) - your digital life manager, Pure P2P, everything is encrypted by default.
 - [pear-expo](https://github.com/gasolin/pear-expo) - React Native web (Expo) setup for pear desktop
 - [hyperclip-desktop](https://github.com/holepunchto/hyperclip-desktop)
+- [PeerViewer](https://peerviewer.org/) - Direct, Secure and Uninterrupted Remote Access - The P2P Way
 
 #### Pears Mobile
 
