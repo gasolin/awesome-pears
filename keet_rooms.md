@@ -65,4 +65,14 @@
 
 ### How to Add my room?
 
-Use chatGPT and follow the [instruction](https://github.com/gasolin/keetlink/blob/main/README.md#how-i-turn-my-invite-link-to-a-web-link)
+To add your room here, raise a issue https://github.com/gasolin/awesome-pears/issues and share a non-expiry room link.
+
+(or if you like to send PR, use chatGPT and follow the [instruction](https://github.com/gasolin/keetlink/blob/main/README.md#how-i-turn-my-invite-link-to-a-web-link) to create keetlink)
+
+To share non-expiry room:
+
+1. Enable stats (go profile > version and click the title 10 times), you'll see a status bar at top (to disable stats bar, click the version title 10 times again)
+2. go room options screen and share room link, you'll able to set non-expiry link
+
+> ![important]
+> when you share a non-expiry room, anyone with the link will able to join without permission, please keep that in mind
