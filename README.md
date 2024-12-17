@@ -67,7 +67,7 @@ A collection of awesome things regarding the Pears ecosystem.
 - [Compatibility config for node stdlib](https://docs.pears.com/bare-reference/nodejs-compatibility-with-bare#config-for-the-node.js-stdlib) - config to compatible with node standard libraries
 - [bare-kit](https://github.com/holepunchto/bare-kit) - a web worker-like API to start and manage an isolated Bare thread, exposes an RPC abstraction with bindings for various languages
 - [brokeout room](https://github.com/ryanramage/breakout-room/tree/autobase) - create small short lived rooms in a p2p space
- 
+
 ### App that also use Hypercore (but not pear)
 
 - [blogging](https://github.com/rukmani887799/blogging) - simple blogging site using hyperbee
@@ -103,7 +103,8 @@ See [Keet Public Rooms](keet_rooms.md)
 - [ouroboros](https://github.com/lejeunerenard/ouroboros) - define derived indexes on autobase hyperbees
 - [pouchdb-adapter-hyperbee](https://github.com/RangerMauve/pouchdb-adapter-hyperbee) - Adapter for PouchDB to load p2p data from Hyperbee
 - [agreeable](https://github.com/ryanramage/agreeable) - Type friendly agreements between peers for rpc and forms
-  
+- [AutoPass](https://github.com/holepunchto/autopass) - Multiwriter password and note sharing module
+
 ### Contribution
 
 We focus on sharing entirely free resources here. Please feel free to propose updates for outdated projects and articles, as well as new contributions. Your input and suggestions are wholeheartedly♡ appreciated. (✿◠‿◠)
