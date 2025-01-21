@@ -44,6 +44,8 @@
   > pear://keet/yry3uyqk6idtwawmb7i91xoufw48j3ykow3kgqiazenorhi414duwmi74qogwmycnbo47wfqrhe6inpqqcfhpbr86hobui64fiyctpx7hc
 - [Bitcoin Español](https://gasolin.idv.tw/keetlink/#key=yry6gj1f17hif7an1q3hqx79jaysrhsexk7sfnkeyrfhf9bc1m8n7kzfpu6i81zxyws79oxemaqig1wxrwps4h39ibyi1b7gtp3sju8mtr&title=Bitcoin%20Español)
   > pear://keet/yry6gj1f17hif7an1q3hqx79jaysrhsexk7sfnkeyrfhf9bc1m8n7kzfpu6i81zxyws79oxemaqig1wxrwps4h39ibyi1b7gtp3sju8mtr
+- [Taiwan 🇹🇼 用 Keet 了](https://gasolin.idv.tw/keetlink/#key=yrysb95uakfuhrhn3t8dfh53du663f14uikq66sc9jppw4b8ph6xnbqbb8ofczuxjy1i3jodsuemnc3q55nzujcac9a65p8xk78zmzfr3w&title=Taiwan%20%F0%9F%87%B9%F0%9F%87%BC%20%E7%94%A8%20Keet%20%E4%BA%86)
+  > pear://keet/yrysb95uakfuhrhn3t8dfh53du663f14uikq66sc9jppw4b8ph6xnbqbb8ofczuxjy1i3jodsuemnc3q55nzujcac9a65p8xk78zmzfr3w
 
 ## Broadcast Feed Rooms
 
