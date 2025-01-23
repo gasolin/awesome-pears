@@ -13,8 +13,8 @@
   > pear://keet/yry7g7wa7bmrjd1xxr7ce64581ij3hozq7589xfgxjrm74kgp34o36pwp46ohw4u1w63o6is6sax6j3swgdi66dmti8p8nfuyypfwewbuy
 - [Bug Bandits🐞](https://gasolin.idv.tw/keetlink/#key=yryskey4bdbxfkaijjankt1e7wecr4w3bztqhheoqkfcyxcs6qjm6gwxecqng6t778stk8zbdic59a3noutugyn8u4gjbi18wgpeub3f5r&title=Bug%20Bandits%F0%9F%90%9E) - report Keet related issue (Official)
   > pear://keet/yryskey4bdbxfkaijjankt1e7wecr4w3bztqhheoqkfcyxcs6qjm6gwxecqng6t778stk8zbdic59a3noutugyn8u4gjbi18wgpeub3f5r
-- [🍐 Pear Development](https://gasolin.idv.tw/keetlink/#key=yryzix4muu85ocwke9njhfppkyjkkrhy15gdyam137jxhtu4ei6y43npudeidy49kiisp9mghefgfg4rcp7iww881sq5dm13syjuim7awr&title=%F0%9F%8D%90%20Pear%20Development) - pear development related discussion (Official)
-  > pear://keet/yryzix4muu85ocwke9njhfppkyjkkrhy15gdyam137jxhtu4ei6y43npudeidy49kiisp9mghefgfg4rcp7iww881sq5dm13syjuim7awr
+- [🍐 Pear Development](https://gasolin.idv.tw/keetlink/#key=yrya9gt5bm5t4dwokz8mwjpk1cszdhjjm1ebsdhc6yzghktp5dsfgxwfqw557b46d7ow3z134tsbjthxqtswn5pitk737j13txyucxutce&title=%F0%9F%8D%90%20Pear%20Development) - pear development related discussion (Official)
+  > pear://keet/yrya9gt5bm5t4dwokz8mwjpk1cszdhjjm1ebsdhc6yzghktp5dsfgxwfqw557b46d7ow3z134tsbjthxqtswn5pitk737j13txyucxutce
 - [🍐Pear Releases](https://gasolin.idv.tw/keetlink/#key=yryz1amkn987xzaam5iniq81bchawc4nj9qphsbcowu37zn9tkjzpn5ujhtwbqk8bhubsgpwj73qd7nys3si53896ax13qd1nrmt68oh9y&title=%F0%9F%8D%90%20Pear%20Releases)
   > pear://keet/yryz1amkn987xzaam5iniq81bchawc4nj9qphsbcowu37zn9tkjzpn5ujhtwbqk8bhubsgpwj73qd7nys3si53896ax13qd1nrmt68oh9y
 - [dat-ecosystem](https://gasolin.idv.tw/keetlink/#key=yryosznkq3xiasbgjt3s5rmqpp6h7xdtrhc9wok3ug5mfp4ftf5dpxkh7ydzfknaij4ngmfaau8m1mm68zhnqwc933zfwydekued8ecfay&title=dat-ecosystem)
