@@ -9,7 +9,7 @@
 
 #### Pear & Keet relate
 
-- [Pear Community](https://gasolin.idv.tw/keetlink) - general Keet or Pears discussion (Official)
+- [Pear Community](https://gasolin.idv.tw/keetlink) - A vibrant community where p2p technology enthusiasts gather to discuss their interests (Official)
   > pear://keet/yry7g7wa7bmrjd1xxr7ce64581ij3hozq7589xfgxjrm74kgp34o36pwp46ohw4u1w63o6is6sax6j3swgdi66dmti8p8nfuyypfwewbuy
 - [Bug Bandits🐞](https://gasolin.idv.tw/keetlink/#key=yryskey4bdbxfkaijjankt1e7wecr4w3bztqhheoqkfcyxcs6qjm6gwxecqng6t778stk8zbdic59a3noutugyn8u4gjbi18wgpeub3f5r&title=Bug%20Bandits%F0%9F%90%9E) - report Keet related issue (Official)
   > pear://keet/yryskey4bdbxfkaijjankt1e7wecr4w3bztqhheoqkfcyxcs6qjm6gwxecqng6t778stk8zbdic59a3noutugyn8u4gjbi18wgpeub3f5r
