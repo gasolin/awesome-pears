@@ -10,9 +10,9 @@
 #### Pear & Keet relate
 
 - [Pear Community](https://gasolin.idv.tw/keetlink) - A vibrant community where p2p technology enthusiasts gather to discuss their interests (Official)
-  > pear://keet/yry7g7wa7bmrjd1xxr7ce64581ij3hozq7589xfgxjrm74kgp34o36pwp46ohw4u1w63o6is6sax6j3swgdi66dmti8p8nfuyypfwewbuy
+  > pear://keet/yrytar9itsdxj676sj3w9fmkfs7wm1x11ycwudo74x7soww9j6p3bbfwp46ohw4u1w63o6is6sax6j3swgdi66dmti8p8nfuyypfwewbuy
 - [Bug Bandits🐞](https://gasolin.idv.tw/keetlink/#key=yryskey4bdbxfkaijjankt1e7wecr4w3bztqhheoqkfcyxcs6qjm6gwxecqng6t778stk8zbdic59a3noutugyn8u4gjbi18wgpeub3f5r&title=Bug%20Bandits%F0%9F%90%9E) - A room to report bugs and collaborate on solutions to improve the app’s performance. (Official)
-  > pear://keet/yryskey4bdbxfkaijjankt1e7wecr4w3bztqhheoqkfcyxcs6qjm6gwxecqng6t778stk8zbdic59a3noutugyn8u4gjbi18wgpeub3f5r
+  > pear://keet/yryw7hhfhky4s5rx6rfmsdw5fw8kfhean869hg9eiba7gdcibizeckcxecqng6t778stk8zbdic59a3noutugyn8u4gjbi18wgpeub3f5r
 - [🍐 Pear Development](https://gasolin.idv.tw/keetlink/#key=yrya9gt5bm5t4dwokz8mwjpk1cszdhjjm1ebsdhc6yzghktp5dsfgxwfqw557b46d7ow3z134tsbjthxqtswn5pitk737j13txyucxutce&title=%F0%9F%8D%90%20Pear%20Development) - Where developers meet to collaborate on building apps within the Pear runtime. (Official)
   > pear://keet/yrya9gt5bm5t4dwokz8mwjpk1cszdhjjm1ebsdhc6yzghktp5dsfgxwfqw557b46d7ow3z134tsbjthxqtswn5pitk737j13txyucxutce
 - [🍐Pear Releases](https://gasolin.idv.tw/keetlink/#key=yryz1amkn987xzaam5iniq81bchawc4nj9qphsbcowu37zn9tkjzpn5ujhtwbqk8bhubsgpwj73qd7nys3si53896ax13qd1nrmt68oh9y&title=%F0%9F%8D%90%20Pear%20Releases)
@@ -24,7 +24,7 @@
 
 #### Other Rooms
 - [@bitcoin 🔥](https://gasolin.idv.tw/keetlink/#key=yryi1hwghpzckutgu89ihjyjuq54gmwh3541z5q6tf7ywxy74yschfm8rjtumpbjywfkgfo8ajidx9fr8dtb6z55g5jrzgt6q4uorrj1cy&title=%40bitcoin%20%F0%9F%94%A5) - A lively space where Bitcoin enthusiasts share updates, news, and insights about cryptocurrency.
-  > pear://keet/yryi1hwghpzckutgu89ihjyjuq54gmwh3541z5q6tf7ywxy74yschfm8rjtumpbjywfkgfo8ajidx9fr8dtb6z55g5jrzgt6q4uorrj1cy
+  > pear://keet/yryob78dhkp6nii3o8aoyi1f6wfepoajmnd5wigraiyy13t7jmmbuyu8rjtumpbjywfkgfo8ajidx9fr8dtb6z55g5jrzgt6q4uorrj1cy
 - [👽 AREA 51, psyops, conspiracies and more.](https://gasolin.idv.tw/keetlink/#key=yryo3oqxkdshyg59afpc9f5ua9k4p1nj4os4wosx8tceq6w19k63wtqfh77np8rqdc4po7i3krosdwc9ff686cy5xtnt9etxbogw76nbqe&title=AREA%2051%2C%20psyops%2C%20conspiracies%20and%20more.) - discuss uncensorable fringe topics
   > pear://keet/yryo3oqxkdshyg59afpc9f5ua9k4p1nj4os4wosx8tceq6w19k63wtqfh77np8rqdc4po7i3krosdwc9ff686cy5xtnt9etxbogw76nbqe
 - [🎒 SSC Bitcoin Meetup 📚](https://gasolin.idv.tw/keetlink/#key=yry64tynpz39z6zkcd1u6zofp914386ym59kgtjpuaxusfrqpe6akgd3okn6x1s454b7aw7o3burbekeo65bj864ib5pr1u4cqqkiuf9nr&title=%F0%9F%8E%92%20SSC%20Bitcoin%20Meetup%20%F0%9F%93%9A)
@@ -50,7 +50,7 @@
 ## Broadcast Feed Rooms
 
 - [Keet News](https://gasolin.idv.tw/keetlink/#key=yry5dqgiy967ffrrbi973ghfb4wsbtczezsomgp4z8s8nn68eyg5kgdyjc1b7dh4gbxkh9apmzn8szr3wdyosa8bdbmja47pp48pjmf7dh&title=Keet%20News) - A space to get the latest updates on new app features and all things Keet. (Official)
-  > pear://keet/yry5dqgiy967ffrrbi973ghfb4wsbtczezsomgp4z8s8nn68eyg5kgdyjc1b7dh4gbxkh9apmzn8szr3wdyosa8bdbmja47pp48pjmf7dh
+  > pear://keet/yry3brxoowt6wnw9kcbxps3uoqohhwauqaf7iz9rddbk3thp11f3phdyjc1b7dh4gbxkh9apmzn8szr3wdyosa8bdbmja47pp48pjmf7dh
 - [Pear News](https://gasolin.idv.tw/keetlink/#key=yrywm9jddjezudx7m9yt8i8rwszzfdiaq4xxijyj9uigag1u7odmgydujhtwbqk8bhubsgpwj73qd7nys3si53896ax13qd1nrmt68oh9y&title=Pear%20News) - Broadcast for Pear & Keet releases (Official)
   > pear://keet/yrywm9jddjezudx7m9yt8i8rwszzfdiaq4xxijyj9uigag1u7odmgydujhtwbqk8bhubsgpwj73qd7nys3si53896ax13qd1nrmt68oh9y
 - [The Guy Swann Network](https://gasolin.idv.tw/keetlink/#key=yryafhr3ogbimoqcigoxnpxdsgizxg6i5heburmoydrykx6wtpe4p9m6jqssar5gtsyta9fjwwy7rdn8n8xfibdhymkxyigzyg1wnr8gey&title=The%20Guy%20Swann%20Network)
