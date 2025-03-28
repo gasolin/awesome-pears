@@ -45,6 +45,7 @@ A collection of awesome things regarding the Pears ecosystem.
 - [pear-expo](https://github.com/gasolin/pear-expo) - React Native web (Expo) setup for pear desktop
 - [hyperclip-desktop](https://github.com/holepunchto/hyperclip-desktop)
 - [PeerViewer](https://peerviewer.org/) - Direct, Secure and Uninterrupted Remote Access - The P2P Way
+- [SeekDeep](https://github.com/noubre/seekdeep) - pear app interfaces with a local LLM
 
 #### Pears Mobile
 
