@@ -37,7 +37,7 @@ A collection of awesome things regarding the Pears ecosystem.
     ```
 - [pear-radio](https://github.com/holepunchto/pear-radio) - P2P music audio player/streamer
   - ```sh
-    pear run pear://qs55y895qbr5im4gi4pdgqzbbhf4ajrpkm8p43e7iwu19kfenf7o
+    pear run pear://npyi57u7d7wx3frz5bnxaue7s44miwmyxy86tidtuxkq8axyf1io
     ```
 - [File Sharing React example](https://github.com/holepunchto/filesharing-react-app-example)
 - [PearPass](https://github.com/MKPLKN/peer-pass-backend) - your digital life manager, Pure P2P, everything is encrypted by default.
