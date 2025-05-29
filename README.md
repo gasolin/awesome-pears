@@ -108,6 +108,10 @@ See [Keet Public Rooms](keet_rooms.md)
 - [agreeable](https://github.com/ryanramage/agreeable) - Type friendly agreements between peers for rpc and forms
 - [AutoPass](https://github.com/holepunchto/autopass) - Multiwriter password and note sharing module
 
+### Building Blocks Tutorials
+
+- [Building Collaborative P2P Applications with Autobase](https://github.com/hypercore-protocol/p2p-multiwriter-with-autobase/tree/main) mentioned hyperdht, hyperswarm, hypercore, and autobase
+
 ### Contribution
 
 We focus on sharing entirely free resources here. Please feel free to propose updates for outdated projects and articles, as well as new contributions. Your input and suggestions are wholeheartedly♡ appreciated. (✿◠‿◠)
