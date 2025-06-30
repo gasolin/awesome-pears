@@ -71,46 +71,6 @@
 - 中文聊天群 🧧 - chat in Chinese
   > pear://keet/yfo3atmyr18ocpuhhdesnqe9j95ufoh8qn6optuqut4hp7a4yzjg1a8c9x35mibopbxtz5eri6prjgywdpg63jh7w78s41kkfpkkw8dfwkhfx4pfc13xzfwcg9o4i3fnt57sj3hzixb9skhyxnha5fbit4jneye
 
-----
-
-Room before V4 (Invite Deprecated), left for reference
-
-- [👽 AREA 51, psyops, conspiracies and more.](https://gasolin.idv.tw/keetlink/#key=yryo3oqxkdshyg59afpc9f5ua9k4p1nj4os4wosx8tceq6w19k63wtqfh77np8rqdc4po7i3krosdwc9ff686cy5xtnt9etxbogw76nbqe&title=AREA%2051%2C%20psyops%2C%20conspiracies%20and%20more.) - discuss uncensorable fringe topics
-  > pear://keet/yryo3oqxkdshyg59afpc9f5ua9k4p1nj4os4wosx8tceq6w19k63wtqfh77np8rqdc4po7i3krosdwc9ff686cy5xtnt9etxbogw76nbqe
-- [🎒 SSC Bitcoin Meetup 📚](https://gasolin.idv.tw/keetlink/#key=yry64tynpz39z6zkcd1u6zofp914386ym59kgtjpuaxusfrqpe6akgd3okn6x1s454b7aw7o3burbekeo65bj864ib5pr1u4cqqkiuf9nr&title=%F0%9F%8E%92%20SSC%20Bitcoin%20Meetup%20%F0%9F%93%9A)
-  > pear://keet/yry64tynpz39z6zkcd1u6zofp914386ym59kgtjpuaxusfrqpe6akgd3okn6x1s454b7aw7o3burbekeo65bj864ib5pr1u4cqqkiuf9nr
-- [⚔️ Trove News](https://gasolin.idv.tw/keetlink/#key=yrbuooe6nmiprndmj7tu58keggzd1xw5sa733sedndy633gqpxhqpq6qnt89gab6o97hs8bmaguaxpak1gfgdnbcx8fmsrobfs8zwn7rqk5jwtdg&title=%E2%9A%94%EF%B8%8F%20Trove%20News)
-  > pear://keet/yrbuooe6nmiprndmj7tu58keggzd1xw5sa733sedndy633gqpxhqpq6qnt89gab6o97hs8bmaguaxpak1gfgdnbcx8fmsrobfs8zwn7rqk5jwtdg
-- [The Psychedelic Libertarian Repository](https://gasolin.idv.tw/keetlink/#key=yry7khzpxg1wfpppkk8m75orq47x6p4mcqrssj4xkyhtcbg1dp6wqbnkdtpe7u4pkubpkt4tykmjrpknr5an9ncjnw63w711x1q8pmkeqc&title=ThePsychedelicLibertarianRepository)
-  > pear://keet/yry7khzpxg1wfpppkk8m75orq47x6p4mcqrssj4xkyhtcbg1dp6wqbnkdtpe7u4pkubpkt4tykmjrpknr5an9ncjnw63w711x1q8pmkeqc
-- [BitVaulty Channel](https://gasolin.idv.tw/keetlink/#key=yryhbr3c4gmipqu7dp38f6h68adr88nrx668h95qbkw5sg8fwjc4a4i4gqnzhxp9ehzkcyh6nzkkewpar4ce8n5b34g5t3rs1q6pc8q5oe&title=BitVaulty%20Channel)
-  > pear://keet/yryhbr3c4gmipqu7dp38f6h68adr88nrx668h95qbkw5sg8fwjc4a4i4gqnzhxp9ehzkcyh6nzkkewpar4ce8n5b34g5t3rs1q6pc8q5oe
-
-
-#### Non-EN Rooms
-- [🇫🇷 Bitcoin en Français!](https://gasolin.idv.tw/keetlink/#key=yry9pxuwoxuidcy7ebtnjmjg9af1u3dn7g386r5nge8bxsdg14dsckomcier4eg4nq69j8orinwt8ycuasibhusjq65kddk9ta6r5jt5jo&title=%F0%9F%87%AB%F0%9F%87%B7%20Bitcoin%20en%20Fran%C3%A7ais!)
-  > pear://keet/yry9pxuwoxuidcy7ebtnjmjg9af1u3dn7g386r5nge8bxsdg14dsckomcier4eg4nq69j8orinwt8ycuasibhusjq65kddk9ta6r5jt5jo
-- [Deutscher Keet Raum](https://gasolin.idv.tw/keetlink/#key=yry3uyqk6idtwawmb7i91xoufw48j3ykow3kgqiazenorhi414duwmi74qogwmycnbo47wfqrhe6inpqqcfhpbr86hobui64fiyctpx7hc&title=Deutscher%20Keet%20Raum)
-  > pear://keet/yry3uyqk6idtwawmb7i91xoufw48j3ykow3kgqiazenorhi414duwmi74qogwmycnbo47wfqrhe6inpqqcfhpbr86hobui64fiyctpx7hc
-- [Bitcoin Español](https://gasolin.idv.tw/keetlink/#key=yry6gj1f17hif7an1q3hqx79jaysrhsexk7sfnkeyrfhf9bc1m8n7kzfpu6i81zxyws79oxemaqig1wxrwps4h39ibyi1b7gtp3sju8mtr&title=Bitcoin%20Español)
-  > pear://keet/yry6gj1f17hif7an1q3hqx79jaysrhsexk7sfnkeyrfhf9bc1m8n7kzfpu6i81zxyws79oxemaqig1wxrwps4h39ibyi1b7gtp3sju8mtr
-- [中文聊天室 🧧](https://gasolin.idv.tw/keetlink/#key=yry1ip4ew5ungp3crfk7ojfd6diosribzhfeaa9856jzwgbbn9m3cjpegp9j85qh5ondnnkompujqktnjt8edex98yn7ht3t4gh9ytq6sr&title=%E4%B8%AD%E6%96%87%E8%81%8A%E5%A4%A9%E5%AE%A4%20%F0%9F%A7%A7)
-  > pear://keet/yry1ip4ew5ungp3crfk7ojfd6diosribzhfeaa9856jzwgbbn9m3cjpegp9j85qh5ondnnkompujqktnjt8edex98yn7ht3t4gh9ytq6sr
-- [Taiwan 🇹🇼 用 Keet 了](https://gasolin.idv.tw/keetlink/#key=yrysb95uakfuhrhn3t8dfh53du663f14uikq66sc9jppw4b8ph6xnbqbb8ofczuxjy1i3jodsuemnc3q55nzujcac9a65p8xk78zmzfr3w&title=Taiwan%20%F0%9F%87%B9%F0%9F%87%BC%20%E7%94%A8%20Keet%20%E4%BA%86)
-  > pear://keet/yrysb95uakfuhrhn3t8dfh53du663f14uikq66sc9jppw4b8ph6xnbqbb8ofczuxjy1i3jodsuemnc3q55nzujcac9a65p8xk78zmzfr3w
-
-## Broadcast Feed Rooms
-
-- [🍐Pear Portal⚡ *Broadcast*](https://gasolin.idv.tw/keetlink/#key=yry98p9nixg4wwfx7gst3ucq8m1wu16sscrxmp6sidrd17w3gs1pgkbsymcjkjxatxn54d45d1fhygaqo9n8sgrrerus58cjstyqnstsiw&title=%F0%9F%8D%90Pear%20Portal%E2%9A%A1%20*Broadcast*) - the place to find public rooms
-  > pear://keet/yry98p9nixg4wwfx7gst3ucq8m1wu16sscrxmp6sidrd17w3gs1pgkbsymcjkjxatxn54d45d1fhygaqo9n8sgrrerus58cjstyqnstsiw
-- [blockdyor](https://gasolin.idv.tw/keetlink/#key=yryida3gphjhphby9mmynp9pq8hz4z9fxsaj54y3j95hb35o194mrduozk5g9naftgj195gek9xa94rph8qpuojxx576xqtspr1ctwb7oc&title=blockdyor)
-  > pear://keet/yryida3gphjhphby9mmynp9pq8hz4z9fxsaj54y3j95hb35o194mrduozk5g9naftgj195gek9xa94rph8qpuojxx576xqtspr1ctwb7oc
-- [ECash News! 💸](https://gasolin.idv.tw/keetlink/#key=yryajhsmg8xwz9wr3zmijx33e7coajjri75iwbrm586h9iioqiz3nziiuubye69d73gk1wjqcbjkmqqzddhk1sccrqomu1y3zj77gya6re&title=ECash%20News)
-  > pear://keet/yryajhsmg8xwz9wr3zmijx33e7coajjri75iwbrm586h9iioqiz3nziiuubye69d73gk1wjqcbjkmqqzddhk1sccrqomu1y3zj77gya6re
-- [The Psychedelic Libertarian Repository](https://gasolin.idv.tw/keetlink/#key=yry7khzpxg1wfpppkk8m75orq47x6p4mcqrssj4xkyhtcbg1dp6wqbnkdtpe7u4pkubpkt4tykmjrpknr5an9ncjnw63w711x1q8pmkeqc&title=The%20Psychedelic%20Libertarian%20Repository)
-  > pear://keet/yry7khzpxg1wfpppkk8m75orq47x6p4mcqrssj4xkyhtcbg1dp6wqbnkdtpe7u4pkubpkt4tykmjrpknr5an9ncjnw63w711x1q8pmkeqc
-
-
 ### How to Add my room?
 
 To add your room here, raise a issue https://github.com/gasolin/awesome-pears/issues and share a non-expiry room link.
