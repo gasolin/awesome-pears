@@ -46,12 +46,20 @@ A collection of awesome things regarding the Pears ecosystem.
 - [hyperclip-desktop](https://github.com/holepunchto/hyperclip-desktop)
 - [PeerViewer](https://peerviewer.org/) - Direct, Secure and Uninterrupted Remote Access - The P2P Way
 - [SeekDeep](https://github.com/noubre/seekdeep) - pear app interfaces with a local LLM
+- https://github.com/AvtoTheThird/PearsPaint - Drawing guessing game
+- https://github.com/khushikumari239/PONG-PEARS - Pong game
+- https://github.com/Dhruv54/P2P-Chess-Game - Chess game
+- https://github.com/adeshsinghbits/peargame - Rock Scissors Paper
+- https://github.com/rewindbitcoin/community-backups - Community backups
+- https://github.com/fdarie/pear_video - Screen sharing
+- https://github.com/holepunchto/pearpad-desktop - Pearpad
 
 #### Pears Mobile
 
 - [Keet.io](https://keet.io/) - P2P Instent Messenger
 - [pear-expo-hello-world](https://github.com/holepunchto/pear-expo-hello-world) - (Deprecated) A Pear Runtime hello world using Bare with Expo
 - [bare-expo](https://github.com/holepunchto/bare-expo) - Example of embedding Bare in an Expo application using bare-kit
+- https://github.com/jj10133/WhereFam-iOS - [IOS] Sharing location
 
 ##### Android
 
