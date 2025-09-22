@@ -15,17 +15,17 @@
   > pear://keet/yfoios17dgbdhoyizg1er4zdsay9admk4oo3meh4j1tawqx4fw5scmysf93per7subcttbhrjuoiriey7b65sh5yrdmhpape7j7f4d7s51kfur9wwwrkwb8ms31n9ro1h467iqq4orw945do88oxztmpfoznnye
 - [Keet News](https://gasolin.idv.tw/keetlink/#key=yfo7j69nb4d8sqtbex7p87e5ukiq9mzyuj3rrpxbwmtrx3ba5x3ga7bdr98c1ycomg1kuo3p9zgscrqahbyo7xsgkr4x5k9rerbpjmjxp3h555imc1ug1qyinw9utwf7n5csxq91n9wuf5p5orxmpsk97youaye&title=Keet%20News) - A space to get the latest updates on new app features and all things Keet. (Official)
   > pear://keet/yfo7j69nb4d8sqtbex7p87e5ukiq9mzyuj3rrpxbwmtrx3ba5x3ga7bdr98c1ycomg1kuo3p9zgscrqahbyo7xsgkr4x5k9rerbpjmjxp3h555imc1ug1qyinw9utwf7n5csxq91n9wuf5p5orxmpsk97youaye 
-- [Keet UX lab](https://gasolin.idv.tw/keetlink/#key=yfoadnyshwtqr9hubr97wnxi876wnfbe1e7zkjaq5dj5r3f9hbxwyg47ok3o769popks4ri3yw7zsu1ad5ghexqqagnu3xmgo9iym6micmzah7dk4cd8z61rez3wfn8azkujsjfhzfpm7jum8r6533sa1ywyqye&title=Keet%20UX20lab) - for all Keet users to share ideas, feedback, and test prototypes
+- [Keet UX lab](https://gasolin.idv.tw/keetlink/#key=yfoadnyshwtqr9hubr97wnxi876wnfbe1e7zkjaq5dj5r3f9hbxwyg47ok3o769popks4ri3yw7zsu1ad5ghexqqagnu3xmgo9iym6micmzah7dk4cd8z61rez3wfn8azkujsjfhzfpm7jum8r6533sa1ywyqye&title=Keet%20UX20lab) - for all Keet users to share ideas, feedback, and test prototypes. (Official)
   > pear://keet/yfoadnyshwtqr9hubr97wnxi876wnfbe1e7zkjaq5dj5r3f9hbxwyg47ok3o769popks4ri3yw7zsu1ad5ghexqqagnu3xmgo9iym6micmzah7dk4cd8z61rez3wfn8azkujsjfhzfpm7jum8r6533sa1ywyqye
+- [Keet APK](https://gasolin.idv.tw/keetlink/#key=yfo6nemwt5oik3k3hnadrzbdz4txwdghpdt3zrhrd1wycynkn88keu6anj77ohjd8w3hfdmsbw8pe5mazk5by7tq89s6fz5ihyj47wzic9z55utdbp5ae7d6aj4qmsqph1zdza99gqjr945eamjsrxxfkmuzkye&title=Keet%20APK) - To get latest keet APK file in keet. (Official)
+ > pear://keet/yfo6nemwt5oik3k3hnadrzbdz4txwdghpdt3zrhrd1wycynkn88keu6anj77ohjd8w3hfdmsbw8pe5mazk5by7tq89s6fz5ihyj47wzic9z55utdbp5ae7d6aj4qmsqph1zdza99gqjr945eamjsrxxfkmuzkye
 - [🍐 Pear Development](https://gasolin.idv.tw/keetlink/#key=yfo6dbyb4iz9bhhdq6nzq888dto4b4mxttz94i8ttaidrppwnmtehgn4so6u5jy9cfg41x7aoht5egf8354wjaz7eip5am37ie9ffy3gpq4bngkz35fx4f9zxpeo53qt679q4e8bjazbxoo356pz96c9munhaye&title=%F0%9F%8D%90%20Pear%20Development) - Where developers meet to collaborate on building apps within the Pear runtime. (Official)
   > pear://keet/yfo6dbyb4iz9bhhdq6nzq888dto4b4mxttz94i8ttaidrppwnmtehgn4so6u5jy9cfg41x7aoht5egf8354wjaz7eip5am37ie9ffy3gpq4bngkz35fx4f9zxpeo53qt679q4e8bjazbxoo356pz96c9munhaye
-- [Bare Development]  (Official)
+- [Bare Development](https://gasolin.idv.tw/keetlink/#key=yfohfp78bhckouj59uybdzneeisuuq47jz75rkk36nu86sen4uhh4dafqhjktx6a86zmjafm6q1s1x3hd3ukhbp9yrqprmapwsh87e9ue1zbzc5gahwh6hdjfwegyfdxhr8kq633z96j41em1fgsctwudj5xaye&title=Bare%20Development) (Official)
   > pear://keet/yfohfp78bhckouj59uybdzneeisuuq47jz75rkk36nu86sen4uhh4dafqhjktx6a86zmjafm6q1s1x3hd3ukhbp9yrqprmapwsh87e9ue1zbzc5gahwh6hdjfwegyfdxhr8kq633z96j41em1fgsctwudj5xaye
-- Pear Releases  (Official)
+- [Pear Releases](https://gasolin.idv.tw/keetlink/#key=yfot9fi7s5feuz9jc6cxgacycdnrz6besatc5fgrehb9nmxey74mhfh957e5513iuaj4aiyiqbo9ystdxegebcfp4kc6tax7ei1m19shcgzco8a8h8x5hcxtmio6ycyk5kf4zqu4fy1pyus8mj6mqfstj5aryye&title=Pear%20Releases)  (Official)
   > pear://keet/yfot9fi7s5feuz9jc6cxgacycdnrz6besatc5fgrehb9nmxey74mhfh957e5513iuaj4aiyiqbo9ystdxegebcfp4kc6tax7ei1m19shcgzco8a8h8x5hcxtmio6ycyk5kf4zqu4fy1pyus8mj6mqfstj5aryye
-- keet APK  (Official)
- > pear://keet/yfo6nemwt5oik3k3hnadrzbdz4txwdghpdt3zrhrd1wycynkn88keu6anj77ohjd8w3hfdmsbw8pe5mazk5by7tq89s6fz5ihyj47wzic9z55utdbp5ae7d6aj4qmsqph1zdza99gqjr945eamjsrxxfkmuzkye
-- Pear baby Room
+- [Pear baby Room](https://gasolin.idv.tw/keetlink/#key=yfot9fi7s5feuz9jc6cxgacycdnrz6besatc5fgrehb9nmxey74mhfh957e5513iuaj4aiyiqbo9ystdxegebcfp4kc6tax7ei1m19shcgzco8a8h8x5hcxtmio6ycyk5kf4zqu4fy1pyus8mj6mqfstj5aryye&title=Pear%20baby%20room) - Pear apps discussion
   > pear://keet/yfo9g36qbzu1kf8cfczywhz1pm1ocgt54i98z748fj865i66zhpw4ay7fyxmbythqgm4btgybui5t84te8duzqe5bory5yauun4c46ugap95nqt156e6s441md3may33um58qxrczweeab8x1p8a3yk37cfswye
 
 #### Other Rooms
