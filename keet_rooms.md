@@ -15,6 +15,8 @@
   > pear://keet/yfoios17dgbdhoyizg1er4zdsay9admk4oo3meh4j1tawqx4fw5scmysf93per7subcttbhrjuoiriey7b65sh5yrdmhpape7j7f4d7s51kfur9wwwrkwb8ms31n9ro1h467iqq4orw945do88oxztmpfoznnye
 - [Keet News](https://gasolin.idv.tw/keetlink/#key=yfo7j69nb4d8sqtbex7p87e5ukiq9mzyuj3rrpxbwmtrx3ba5x3ga7bdr98c1ycomg1kuo3p9zgscrqahbyo7xsgkr4x5k9rerbpjmjxp3h555imc1ug1qyinw9utwf7n5csxq91n9wuf5p5orxmpsk97youaye&title=Keet%20News) - A space to get the latest updates on new app features and all things Keet. (Official)
   > pear://keet/yfo7j69nb4d8sqtbex7p87e5ukiq9mzyuj3rrpxbwmtrx3ba5x3ga7bdr98c1ycomg1kuo3p9zgscrqahbyo7xsgkr4x5k9rerbpjmjxp3h555imc1ug1qyinw9utwf7n5csxq91n9wuf5p5orxmpsk97youaye 
+- [Keet UX lab](https://gasolin.idv.tw/keetlink/#key=yfoadnyshwtqr9hubr97wnxi876wnfbe1e7zkjaq5dj5r3f9hbxwyg47ok3o769popks4ri3yw7zsu1ad5ghexqqagnu3xmgo9iym6micmzah7dk4cd8z61rez3wfn8azkujsjfhzfpm7jum8r6533sa1ywyqye&title=Keet%20UX20lab) - for all Keet users to share ideas, feedback, and test prototypes
+  > pear://keet/yfoadnyshwtqr9hubr97wnxi876wnfbe1e7zkjaq5dj5r3f9hbxwyg47ok3o769popks4ri3yw7zsu1ad5ghexqqagnu3xmgo9iym6micmzah7dk4cd8z61rez3wfn8azkujsjfhzfpm7jum8r6533sa1ywyqye
 - [🍐 Pear Development](https://gasolin.idv.tw/keetlink/#key=yfo6dbyb4iz9bhhdq6nzq888dto4b4mxttz94i8ttaidrppwnmtehgn4so6u5jy9cfg41x7aoht5egf8354wjaz7eip5am37ie9ffy3gpq4bngkz35fx4f9zxpeo53qt679q4e8bjazbxoo356pz96c9munhaye&title=%F0%9F%8D%90%20Pear%20Development) - Where developers meet to collaborate on building apps within the Pear runtime. (Official)
   > pear://keet/yfo6dbyb4iz9bhhdq6nzq888dto4b4mxttz94i8ttaidrppwnmtehgn4so6u5jy9cfg41x7aoht5egf8354wjaz7eip5am37ie9ffy3gpq4bngkz35fx4f9zxpeo53qt679q4e8bjazbxoo356pz96c9munhaye
 - [Bare Development]  (Official)
