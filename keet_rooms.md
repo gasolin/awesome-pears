@@ -9,8 +9,8 @@
 
 #### Pear & Keet relate
 
-- [Pear Community](https://gasolin.idv.tw/keetlink/#key=yfo65n76jzi9girwkdqffaa6istu4n9zrc8pje6qds1qqco448fk6cnoa5uuynb7tnje58r7mtpzs1bodbk8routkfmk3fhd4czh6y8x5jsj7t69pq3iatqd8jj38bjxy318atyxy7mnwg1zk4djry47cchdaye&title=Pear%20Community) - A vibrant community where p2p technology enthusiasts gather to discuss their interests (Official)
-  > pear://keet/yfo65n76jzi9girwkdqffaa6istu4n9zrc8pje6qds1qqco448fk6cnoa5uuynb7tnje58r7mtpzs1bodbk8routkfmk3fhd4czh6y8x5jsj7t69pq3iatqd8jj38bjxy318atyxy7mnwg1zk4djry47cchdaye
+- [Pear Community](https://gasolin.idv.tw/keetlink/#key=yfo4afrc46rkykdue9br5zsiyc917eqqpr9oiy8z19xrfj9ffenx69t7eqaz5uuann7bf3pdih51o3neibf199i8cyb8tyexngxt8ug361rw9k4pgfsfxp7xxpkxoufigkz5e8ddizope3mkx5ix4dp7yapkhye&title=Pear%20Community) - A vibrant community where p2p technology enthusiasts gather to discuss their interests (Official)
+  > pear://keet/yfo4afrc46rkykdue9br5zsiyc917eqqpr9oiy8z19xrfj9ffenx69t7eqaz5uuann7bf3pdih51o3neibf199i8cyb8tyexngxt8ug361rw9k4pgfsfxp7xxpkxoufigkz5e8ddizope3mkx5ix4dp7yapkhye
 - [Bug Bandits🐞](https://gasolin.idv.tw/keetlink/#key=yfoios17dgbdhoyizg1er4zdsay9admk4oo3meh4j1tawqx4fw5scmysf93per7subcttbhrjuoiriey7b65sh5yrdmhpape7j7f4d7s51kfur9wwwrkwb8ms31n9ro1h467iqq4orw945do88oxztmpfoznnye&title=Bug%20Bandits%F0%9F%90%9E) - A room to report bugs and collaborate on solutions to improve the app’s performance. (Official)
   > pear://keet/yfoios17dgbdhoyizg1er4zdsay9admk4oo3meh4j1tawqx4fw5scmysf93per7subcttbhrjuoiriey7b65sh5yrdmhpape7j7f4d7s51kfur9wwwrkwb8ms31n9ro1h467iqq4orw945do88oxztmpfoznnye
 - [Keet News](https://gasolin.idv.tw/keetlink/#key=yfo7j69nb4d8sqtbex7p87e5ukiq9mzyuj3rrpxbwmtrx3ba5x3ga7bdr98c1ycomg1kuo3p9zgscrqahbyo7xsgkr4x5k9rerbpjmjxp3h555imc1ug1qyinw9utwf7n5csxq91n9wuf5p5orxmpsk97youaye&title=Keet%20News) - A space to get the latest updates on new app features and all things Keet. (Official)
@@ -68,17 +68,23 @@
 
 #### Non-EN Rooms
 
-- [Pear Сообщество -](https://gasolin.idv.tw/keetlink/#key=yfo19kgumsfx6yebdqhfgn5na9qiw1pcxny1dmzwj1s1tsazsyr9rto4y738pcsobakt47scnkz8sfuua4xx6phqbfnpyf5xyn61y4g1zh3httbaihejfq3gzrq3jhyjctf9fyeu7ufyf1k4krawi5b1ay7unye&title=Pear%20%D0%A1%D0%BE%D0%BE%D0%B1%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%BE) - RU lang community (Official)
-  > pear://keet/yfo19kgumsfx6yebdqhfgn5na9qiw1pcxny1dmzwj1s1tsazsyr9rto4y738pcsobakt47scnkz8sfuua4xx6phqbfnpyf5xyn61y4g1zh3httbaihejfq3gzrq3jhyjctf9fyeu7ufyf1k4krawi5b1ay7unye
+- [Pear Сообщество -](https://gasolin.idv.tw/keetlink/#key=yfo19kgumsfx6yebdqhfgn5na9qiw1pcxny1dmzwj1s1tsazsyr9rttmz1jbxwdd7zs46kfp8zx4e18gqmxo3tnwu1pu9pm1x3ybnof3owjgsrybtkfwt8fsduuakkoi8w7ziofjk5s5z1h71dwkbg988fkc1ye&title=Pear%20%D0%A1%D0%BE%D0%BE%D0%B1%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%BE) - Russian lang community (Official)
+  > pear://keet/yfo19kgumsfx6yebdqhfgn5na9qiw1pcxny1dmzwj1s1tsazsyr9rttmz1jbxwdd7zs46kfp8zx4e18gqmxo3tnwu1pu9pm1x3ybnof3owjgsrybtkfwt8fsduuakkoi8w7ziofjk5s5z1h71dwkbg988fkc1ye
 
-- [Nordic Countries 🔥](https://gasolin.idv.tw/keetlink/#key=yfo14gjcb6gq3gfiqucujkn6zs4ymn6snhcz8gywnhu3fdiubjm7cp1ra3tzxh643tbpesi63ownimcpybxtbeb1ac4njf63s1s53hd46zezq85urfsp9sh3usu9y3ct1z6dffcqdscy59s5hjmkcscju8xjwye&title=%40Nordic%20Countries%20%E2%9D%A4%EF%B8%8F) - Nordic community
-  > pear://keet/yfo14gjcb6gq3gfiqucujkn6zs4ymn6snhcz8gywnhu3fdiubjm7cp1ra3tzxh643tbpesi63ownimcpybxtbeb1ac4njf63s1s53hd46zezq85urfsp9sh3usu9y3ct1z6dffcqdscy59s5hjmkcscju8xjwye
+- [Pear Spanish](https://gasolin.idv.tw/keetlink/#key=yfozhdeghdhkmq6pjnot38qehk41tfdk7ezdrzop6eg1kf8j4315eytz58e843in9aymk6tbt5iperkhhywu8k4udeemfag6f8gy65edmp48kp4qnmnzw3696gzj1bjc6atomih5g7setfxawckkz9d8com64ye&title=Pear%20Spanish) - Spanish lang community (Official)
+  > pear://keet/yfozhdeghdhkmq6pjnot38qehk41tfdk7ezdrzop6eg1kf8j4315eytz58e843in9aymk6tbt5iperkhhywu8k4udeemfag6f8gy65edmp48kp4qnmnzw3696gzj1bjc6atomih5g7setfxawckkz9d8com64ye
 
-- [Pear 中文社区/社群](https://gasolin.idv.tw/keetlink/#key=yfo4epyx159hi9s4abcyqmqf6cx5q5nhiemdr58swhyr1o3pfh8irmk4u9umsyd1pmu7hsietn7xf3znibmp7p3mb43ewdefouf3m91nkccypwihwqsas3sz6arzqdcb3cmgkyyaskjxybge8mnigfhh3xdukye&title=Pear%20%E4%B8%AD%E6%96%87%E7%A4%BE%E5%8C%BA/%E7%A4%BE%E7%BE%A4) - Pear 中文社群/社區 (Official)
-  > pear://keet/yfo4epyx159hi9s4abcyqmqf6cx5q5nhiemdr58swhyr1o3pfh8irmk4u9umsyd1pmu7hsietn7xf3znibmp7p3mb43ewdefouf3m91nkccypwihwqsas3sz6arzqdcb3cmgkyyaskjxybge8mnigfhh3xdukye
+- [Pear Italian](https://gasolin.idv.tw/keetlink/#key=yfoty8ery1i6q7urd4grpb8jbwu9zs7xitorcg4yypnd3cfzwp16g7k6eeto6z5f3oko3u6174r1taqd3i81p7k8eoy3nsqixar5pf5yraeic1hzdtks1b4nrigg6ug6gekq4tckru1ink6xafrpmit6ng95gye&title=Pear%20Italian) - Italian lang community (Official)
+  > pear://keet/yfoty8ery1i6q7urd4grpb8jbwu9zs7xitorcg4yypnd3cfzwp16g7k6eeto6z5f3oko3u6174r1taqd3i81p7k8eoy3nsqixar5pf5yraeic1hzdtks1b4nrigg6ug6gekq4tckru1ink6xafrpmit6ng95gye
+  
+- [Pear 中文社区/社群](https://gasolin.idv.tw/keetlink/#key=yfo4epyx159hi9s4abcyqmqf6cx5q5nhiemdr58swhyr1o3pfh8irmki5ismher36udgqwjaxwxrfieyq3rrer4q9a9bq16ifsg6sdjj5g5nj197z4xpepw4s5wcbdan4rx1chmq4ihkxty3p7reggbcp9m1kye&title=Pear%20%E4%B8%AD%E6%96%87%E7%A4%BE%E5%8C%BA/%E7%A4%BE%E7%BE%A4) - Pear 中文社群/社區 (Official)
+  > pear://keet/yfo4epyx159hi9s4abcyqmqf6cx5q5nhiemdr58swhyr1o3pfh8irmki5ismher36udgqwjaxwxrfieyq3rrer4q9a9bq16ifsg6sdjj5g5nj197z4xpepw4s5wcbdan4rx1chmq4ihkxty3p7reggbcp9m1kye
 
 - [中文聊天群 🧧 🔥](https://gasolin.idv.tw/keetlink/#key=yfo3atmyr18ocpuhhdesnqe9j95ufoh8qn6optuqut4hp7a4yzjg1a8c9x35mibopbxtz5eri6prjgywdpg63jh7w78s41kkfpkkw8dfwkhfx4pfc13xzfwcg9o4i3fnt57sj3hzixb9skhyxnha5fbit4jneye&title=%40%E4%B8%AD%E6%96%87%E8%81%8A%E5%A4%A9%E7%BE%A4%20%F0%9F%A4%A7%20%E2%9D%A4%EF%B8%8F) - Chinese lang community
   > pear://keet/yfo3atmyr18ocpuhhdesnqe9j95ufoh8qn6optuqut4hp7a4yzjg1a8c9x35mibopbxtz5eri6prjgywdpg63jh7w78s41kkfpkkw8dfwkhfx4pfc13xzfwcg9o4i3fnt57sj3hzixb9skhyxnha5fbit4jneye
+
+- [Nordic Countries 🔥](https://gasolin.idv.tw/keetlink/#key=yfo14gjcb6gq3gfiqucujkn6zs4ymn6snhcz8gywnhu3fdiubjm7cp1ra3tzxh643tbpesi63ownimcpybxtbeb1ac4njf63s1s53hd46zezq85urfsp9sh3usu9y3ct1z6dffcqdscy59s5hjmkcscju8xjwye&title=%40Nordic%20Countries%20%E2%9D%A4%EF%B8%8F) - Nordic community
+  > pear://keet/yfo14gjcb6gq3gfiqucujkn6zs4ymn6snhcz8gywnhu3fdiubjm7cp1ra3tzxh643tbpesi63ownimcpybxtbeb1ac4njf63s1s53hd46zezq85urfsp9sh3usu9y3ct1z6dffcqdscy59s5hjmkcscju8xjwye
 
 ### How to Add my room?
 
