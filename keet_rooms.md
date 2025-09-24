@@ -68,10 +68,13 @@
 
 #### Non-EN Rooms
 
-- [Nordic Countries 🔥](https://gasolin.idv.tw/keetlink/#key=yfo14gjcb6gq3gfiqucujkn6zs4ymn6snhcz8gywnhu3fdiubjm7cp1ra3tzxh643tbpesi63ownimcpybxtbeb1ac4njf63s1s53hd46zezq85urfsp9sh3usu9y3ct1z6dffcqdscy59s5hjmkcscju8xjwye&title=%40Nordic%20Countries%20%E2%9D%A4%EF%B8%8F)
+- [Pear Сообщество -](https://gasolin.idv.tw/keetlink/#key=yfo19kgumsfx6yebdqhfgn5na9qiw1pcxny1dmzwj1s1tsazsyr9rto4y738pcsobakt47scnkz8sfuua4xx6phqbfnpyf5xyn61y4g1zh3httbaihejfq3gzrq3jhyjctf9fyeu7ufyf1k4krawi5b1ay7unye&title=Pear%20%D0%A1%D0%BE%D0%BE%D0%B1%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%BE) - RU lang community (Official)
+  > pear://keet/yfo19kgumsfx6yebdqhfgn5na9qiw1pcxny1dmzwj1s1tsazsyr9rto4y738pcsobakt47scnkz8sfuua4xx6phqbfnpyf5xyn61y4g1zh3httbaihejfq3gzrq3jhyjctf9fyeu7ufyf1k4krawi5b1ay7unye
+
+- [Nordic Countries 🔥](https://gasolin.idv.tw/keetlink/#key=yfo14gjcb6gq3gfiqucujkn6zs4ymn6snhcz8gywnhu3fdiubjm7cp1ra3tzxh643tbpesi63ownimcpybxtbeb1ac4njf63s1s53hd46zezq85urfsp9sh3usu9y3ct1z6dffcqdscy59s5hjmkcscju8xjwye&title=%40Nordic%20Countries%20%E2%9D%A4%EF%B8%8F) - Nordic community
   > pear://keet/yfo14gjcb6gq3gfiqucujkn6zs4ymn6snhcz8gywnhu3fdiubjm7cp1ra3tzxh643tbpesi63ownimcpybxtbeb1ac4njf63s1s53hd46zezq85urfsp9sh3usu9y3ct1z6dffcqdscy59s5hjmkcscju8xjwye
 
-- [中文聊天群 🧧 🔥](https://gasolin.idv.tw/keetlink/#key=yfo3atmyr18ocpuhhdesnqe9j95ufoh8qn6optuqut4hp7a4yzjg1a8c9x35mibopbxtz5eri6prjgywdpg63jh7w78s41kkfpkkw8dfwkhfx4pfc13xzfwcg9o4i3fnt57sj3hzixb9skhyxnha5fbit4jneye&title=%40%E4%B8%AD%E6%96%87%E8%81%8A%E5%A4%A9%E7%BE%A4%20%F0%9F%A4%A7%20%E2%9D%A4%EF%B8%8F)
+- [中文聊天群 🧧 🔥](https://gasolin.idv.tw/keetlink/#key=yfo3atmyr18ocpuhhdesnqe9j95ufoh8qn6optuqut4hp7a4yzjg1a8c9x35mibopbxtz5eri6prjgywdpg63jh7w78s41kkfpkkw8dfwkhfx4pfc13xzfwcg9o4i3fnt57sj3hzixb9skhyxnha5fbit4jneye&title=%40%E4%B8%AD%E6%96%87%E8%81%8A%E5%A4%A9%E7%BE%A4%20%F0%9F%A4%A7%20%E2%9D%A4%EF%B8%8F) - Chinese lang community
   > pear://keet/yfo3atmyr18ocpuhhdesnqe9j95ufoh8qn6optuqut4hp7a4yzjg1a8c9x35mibopbxtz5eri6prjgywdpg63jh7w78s41kkfpkkw8dfwkhfx4pfc13xzfwcg9o4i3fnt57sj3hzixb9skhyxnha5fbit4jneye
 
 ### How to Add my room?
