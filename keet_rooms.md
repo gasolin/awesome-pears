@@ -68,13 +68,13 @@
 
 #### Non-EN Rooms
 
-- [Pear Сообщество -](https://gasolin.idv.tw/keetlink/#key=yfo19kgumsfx6yebdqhfgn5na9qiw1pcxny1dmzwj1s1tsazsyr9rttmz1jbxwdd7zs46kfp8zx4e18gqmxo3tnwu1pu9pm1x3ybnof3owjgsrybtkfwt8fsduuakkoi8w7ziofjk5s5z1h71dwkbg988fkc1ye&title=Pear%20%D0%A1%D0%BE%D0%BE%D0%B1%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%BE) - Russian lang community (Official)
+- [Pear Сообщество -](https://gasolin.idv.tw/keetlink/#key=yfo19kgumsfx6yebdqhfgn5na9qiw1pcxny1dmzwj1s1tsazsyr9rttmz1jbxwdd7zs46kfp8zx4e18gqmxo3tnwu1pu9pm1x3ybnof3owjgsrybtkfwt8fsduuakkoi8w7ziofjk5s5z1h71dwkbg988fkc1ye&title=Pear%20%D0%A1%D0%BE%D0%BE%D0%B1%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%BE) - Русский community (Official)
   > pear://keet/yfo19kgumsfx6yebdqhfgn5na9qiw1pcxny1dmzwj1s1tsazsyr9rttmz1jbxwdd7zs46kfp8zx4e18gqmxo3tnwu1pu9pm1x3ybnof3owjgsrybtkfwt8fsduuakkoi8w7ziofjk5s5z1h71dwkbg988fkc1ye
 
-- [Pear Spanish](https://gasolin.idv.tw/keetlink/#key=yfozhdeghdhkmq6pjnot38qehk41tfdk7ezdrzop6eg1kf8j4315eytz58e843in9aymk6tbt5iperkhhywu8k4udeemfag6f8gy65edmp48kp4qnmnzw3696gzj1bjc6atomih5g7setfxawckkz9d8com64ye&title=Pear%20Spanish) - Spanish lang community (Official)
+- [Pear Español](https://gasolin.idv.tw/keetlink/#key=yfozhdeghdhkmq6pjnot38qehk41tfdk7ezdrzop6eg1kf8j4315eytz58e843in9aymk6tbt5iperkhhywu8k4udeemfag6f8gy65edmp48kp4qnmnzw3696gzj1bjc6atomih5g7setfxawckkz9d8com64ye&title=Pear%20Spanish) - Español community (Official)
   > pear://keet/yfozhdeghdhkmq6pjnot38qehk41tfdk7ezdrzop6eg1kf8j4315eytz58e843in9aymk6tbt5iperkhhywu8k4udeemfag6f8gy65edmp48kp4qnmnzw3696gzj1bjc6atomih5g7setfxawckkz9d8com64ye
 
-- [Pear Italian](https://gasolin.idv.tw/keetlink/#key=yfoty8ery1i6q7urd4grpb8jbwu9zs7xitorcg4yypnd3cfzwp16g7k6eeto6z5f3oko3u6174r1taqd3i81p7k8eoy3nsqixar5pf5yraeic1hzdtks1b4nrigg6ug6gekq4tckru1ink6xafrpmit6ng95gye&title=Pear%20Italian) - Italian lang community (Official)
+- [Pear Italiano](https://gasolin.idv.tw/keetlink/#key=yfoty8ery1i6q7urd4grpb8jbwu9zs7xitorcg4yypnd3cfzwp16g7k6eeto6z5f3oko3u6174r1taqd3i81p7k8eoy3nsqixar5pf5yraeic1hzdtks1b4nrigg6ug6gekq4tckru1ink6xafrpmit6ng95gye&title=Pear%20Italian) - Italiano community (Official)
   > pear://keet/yfoty8ery1i6q7urd4grpb8jbwu9zs7xitorcg4yypnd3cfzwp16g7k6eeto6z5f3oko3u6174r1taqd3i81p7k8eoy3nsqixar5pf5yraeic1hzdtks1b4nrigg6ug6gekq4tckru1ink6xafrpmit6ng95gye
   
 - [Pear 中文社区/社群](https://gasolin.idv.tw/keetlink/#key=yfo4epyx159hi9s4abcyqmqf6cx5q5nhiemdr58swhyr1o3pfh8irmki5ismher36udgqwjaxwxrfieyq3rrer4q9a9bq16ifsg6sdjj5g5nj197z4xpepw4s5wcbdan4rx1chmq4ihkxty3p7reggbcp9m1kye&title=Pear%20%E4%B8%AD%E6%96%87%E7%A4%BE%E5%8C%BA/%E7%A4%BE%E7%BE%A4) - Pear 中文社群/社區 (Official)
