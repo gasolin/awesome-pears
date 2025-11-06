@@ -1,6 +1,6 @@
 ## **Awesome Pears 🍐**
 
-A collection of awesome things regarding the Pears ecosystem.
+An UNOFFICIAL collection of awesome things regarding the Pears ecosystem.
 
 - [Pears](#pears)
   - [Pears General Resources](#pears-general-resources)
