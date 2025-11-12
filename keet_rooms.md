@@ -80,9 +80,6 @@
 - [Pear 中文社区/社群](https://gasolin.idv.tw/keetlink/#key=yfo4epyx159hi9s4abcyqmqf6cx5q5nhiemdr58swhyr1o3pfh8irmki5ismher36udgqwjaxwxrfieyq3rrer4q9a9bq16ifsg6sdjj5g5nj197z4xpepw4s5wcbdan4rx1chmq4ihkxty3p7reggbcp9m1kye&title=Pear%20%E4%B8%AD%E6%96%87%E7%A4%BE%E5%8C%BA/%E7%A4%BE%E7%BE%A4) - Pear 中文社群/社區 (Official)
   > pear://keet/yfo4epyx159hi9s4abcyqmqf6cx5q5nhiemdr58swhyr1o3pfh8irmki5ismher36udgqwjaxwxrfieyq3rrer4q9a9bq16ifsg6sdjj5g5nj197z4xpepw4s5wcbdan4rx1chmq4ihkxty3p7reggbcp9m1kye
 
-- [中文聊天群 🧧 🔥](https://gasolin.idv.tw/keetlink/#key=yfo3atmyr18ocpuhhdesnqe9j95ufoh8qn6optuqut4hp7a4yzjg1a8c9x35mibopbxtz5eri6prjgywdpg63jh7w78s41kkfpkkw8dfwkhfx4pfc13xzfwcg9o4i3fnt57sj3hzixb9skhyxnha5fbit4jneye&title=%40%E4%B8%AD%E6%96%87%E8%81%8A%E5%A4%A9%E7%BE%A4%20%F0%9F%A4%A7%20%E2%9D%A4%EF%B8%8F) - Chinese lang community
-  > pear://keet/yfo3atmyr18ocpuhhdesnqe9j95ufoh8qn6optuqut4hp7a4yzjg1a8c9x35mibopbxtz5eri6prjgywdpg63jh7w78s41kkfpkkw8dfwkhfx4pfc13xzfwcg9o4i3fnt57sj3hzixb9skhyxnha5fbit4jneye
-
 - [Nordic Countries 🔥](https://gasolin.idv.tw/keetlink/#key=yfo14gjcb6gq3gfiqucujkn6zs4ymn6snhcz8gywnhu3fdiubjm7cp1ra3tzxh643tbpesi63ownimcpybxtbeb1ac4njf63s1s53hd46zezq85urfsp9sh3usu9y3ct1z6dffcqdscy59s5hjmkcscju8xjwye&title=%40Nordic%20Countries%20%E2%9D%A4%EF%B8%8F) - Nordic community
   > pear://keet/yfo14gjcb6gq3gfiqucujkn6zs4ymn6snhcz8gywnhu3fdiubjm7cp1ra3tzxh643tbpesi63ownimcpybxtbeb1ac4njf63s1s53hd46zezq85urfsp9sh3usu9y3ct1z6dffcqdscy59s5hjmkcscju8xjwye
 
