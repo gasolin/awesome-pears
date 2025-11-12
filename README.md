@@ -20,7 +20,8 @@ An UNOFFICIAL collection of awesome things regarding the Pears ecosystem.
 
 ##### Article
 - [Getting Start Pears](https://docs.pears.com/guides/getting-started)
-
+- [Pear Conventions](https://pear.conventionaldevs.org/) - Tutorials of pears related building blocks
+ 
 ##### Video
 - [Build with Pear 🍐](https://www.youtube.com/watch?v=y2G97xz78gU&list=PLEZwCXa1K8Q629mWmpcSYCVMDoi0s8hzI) series
 
