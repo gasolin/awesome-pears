@@ -41,8 +41,8 @@ An UNOFFICIAL collection of awesome things regarding the Pears ecosystem.
     pear run pear://npyi57u7d7wx3frz5bnxaue7s44miwmyxy86tidtuxkq8axyf1io
     ```
 - [File Sharing React example](https://github.com/holepunchto/filesharing-react-app-example)
-- [PearPass](https://github.com/MKPLKN/peer-pass-backend) - your digital life manager, Pure P2P, everything is encrypted by default.
-- [pearpass-example](https://github.com/holepunchto/pearpass-example) - pearpass with autobase
+- [PearPass-desktop](https://github.com/tetherto/pearpass-app-desktop) - A distributed password manager powered by Pear Runtime.
+- [pearpass-example](https://github.com/holepunchto/pearpass-example) - Example of building a collaborative application with autobase and autopass.
 - [pear-expo](https://github.com/gasolin/pear-expo) - React Native web (Expo) setup for pear desktop
 - [hyperclip-desktop](https://github.com/holepunchto/hyperclip-desktop)
 - [PeerViewer](https://peerviewer.org/) - Direct, Secure and Uninterrupted Remote Access - The P2P Way
@@ -58,6 +58,7 @@ An UNOFFICIAL collection of awesome things regarding the Pears ecosystem.
 #### Pears Mobile
 
 - [Keet.io](https://keet.io/) - P2P Instent Messenger
+- [PearPass-mobile](https://github.com/tetherto/pearpass-app-mobile) - A distributed password manager powered by Pear Runtime.
 - [pear-expo-hello-world](https://github.com/holepunchto/pear-expo-hello-world) - (Deprecated) A Pear Runtime hello world using Bare with Expo
 - [bare-expo](https://github.com/holepunchto/bare-expo) - Example of embedding Bare in an Expo application using bare-kit
 - https://github.com/jj10133/WhereFam-iOS - [IOS] Sharing location
