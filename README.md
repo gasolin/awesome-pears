@@ -110,7 +110,7 @@ See [Keet Public Rooms](keet_rooms.md)
   - [P2P indexing and search Tutorial](https://github.com/hypercore-protocol/p2p-indexing-and-search)
   - [autobase](https://github.com/holepunchto/autobase) - multiwriter data structures with Hypercore
 - typescript type definition for hypercore and related modules - [1](https://github.com/digidem/digidem-types/tree/main/vendor) 
-[2](https://github.com/digidem/mapeo-core-next/tree/main/types)
+[2](https://github.com/digidem/mapeo-core-next/tree/main/types) [3](https://github.com/Drache93/holepunch-types)
 - [hyper-sdk](https://github.com/RangerMauve/hyper-sdk) - Software Development Kit for the hypercore-protocol
 - [nebula](https://github.com/Telios-org/nebula) - Nebula drives are real-time distributed storage for files and key value databases
 - [ouroboros](https://github.com/lejeunerenard/ouroboros) - define derived indexes on autobase hyperbees
