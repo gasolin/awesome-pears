@@ -62,6 +62,7 @@ An UNOFFICIAL collection of awesome things regarding the Pears ecosystem.
 - [pear-expo-hello-world](https://github.com/holepunchto/pear-expo-hello-world) - (Deprecated) A Pear Runtime hello world using Bare with Expo
 - [bare-expo](https://github.com/holepunchto/bare-expo) - Example of embedding Bare in an Expo application using bare-kit
 - https://github.com/jj10133/WhereFam-iOS - [IOS] Sharing location
+- https://peerloomllc.com/pearcal/ - [iOS/Android] Calendar/event sharing
 
 ##### Android
 
