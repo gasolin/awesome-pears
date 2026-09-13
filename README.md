@@ -45,7 +45,7 @@ An UNOFFICIAL collection of awesome things regarding the Pears ecosystem.
 - [pearpass-example](https://github.com/holepunchto/pearpass-example) - Example of building a collaborative application with autobase and autopass.
 - [pear-expo](https://github.com/gasolin/pear-expo) - React Native web (Expo) setup for pear desktop
 - [hyperclip-desktop](https://github.com/holepunchto/hyperclip-desktop)
-- [PeerViewer](https://peerviewer.org/) - Direct, Secure and Uninterrupted Remote Access - The P2P Way
+- [PeerViewer](https://github.com/PeerViewer/codebase) - Direct, Secure and Uninterrupted Remote Access - The P2P Way
 - [SeekDeep](https://github.com/noubre/seekdeep) - pear app interfaces with a local LLM
 - https://github.com/AvtoTheThird/PearsPaint - Drawing guessing game
 - https://github.com/khushikumari239/PONG-PEARS - Pong game
