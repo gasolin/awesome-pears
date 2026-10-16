@@ -61,8 +61,9 @@ An UNOFFICIAL collection of awesome things regarding the Pears ecosystem.
 - [PearPass-mobile](https://github.com/tetherto/pearpass-app-mobile) - A distributed password manager powered by Pear Runtime.
 - [pear-expo-hello-world](https://github.com/holepunchto/pear-expo-hello-world) - (Deprecated) A Pear Runtime hello world using Bare with Expo
 - [bare-expo](https://github.com/holepunchto/bare-expo) - Example of embedding Bare in an Expo application using bare-kit
+- https://github.com/jj10133/WhereFam-iOS - [IOS] Sharing location
+- https://peerloomllc.com/pearcal/ - [iOS/Android] Calendar/event sharing
 - https://github.com/Drache93/ghost-drive - Share local folders across devices over encrypted P2P connections
-
 
 ##### Android
 
