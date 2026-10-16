@@ -15,6 +15,7 @@ An UNOFFICIAL collection of awesome things regarding the Pears ecosystem.
 - [Pears Official Documentation](https://docs.pears.com/) [Source](https://github.com/holepunchto/pear-docs)
 - [Pear Source Code](https://github.com/holepunchto/pear)
 - [Holepunch](https://holepunch.to/) - Company who invent the Pears
+- [Awesome Pears](https://github.com/holepunchto/awesome-pears) - Official Awesome Pears around pears and bare
 
 #### Pears Tutorials
 
@@ -32,6 +33,8 @@ An UNOFFICIAL collection of awesome things regarding the Pears ecosystem.
   - ```sh
     pear run pear://runtime
     ``` 
+- [hello-pear-electron](https://github.com/holepunchto/hello-pear-electron) - Official boilerplate demonstrating migration to the embeddable pear-runtime approach in Electron
+- [pear-cross-platform-template](https://github.com/harrisaar-noxtton/pear-cross-platform-template) - Cross-platform development template for deploying Pear and Bare code to Desktop, Mobile, and Web.
 - [Keet.io](https://keet.io/) - P2P Instent Messenger
   - ```sh
     pear run pear://keet
@@ -78,6 +81,7 @@ An UNOFFICIAL collection of awesome things regarding the Pears ecosystem.
 
 #### Pears Terminal
 - Pear Runtime runs on [bare](https://github.com/holepunchto/bare), which is a cross-platform (including mobile) minimal JS runtime.
+- [hello-pear-bare](https://github.com/holepunchto/hello-pear-bare) - Minimal boilerplate for integrating Pear capabilities into native Bare CLI applications
 - 🔧 [Bare Node](https://github.com/holepunchto/bare-node) - a Node.js Compat builtins modules to easier reuse normal node modules with bare runtime
 - [Compatibility config for node stdlib](https://docs.pears.com/bare-reference/nodejs-compatibility-with-bare#config-for-the-node.js-stdlib) - config to compatible with node standard libraries
 - [bare-kit](https://github.com/holepunchto/bare-kit) - a web worker-like API to start and manage an isolated Bare thread, exposes an RPC abstraction with bindings for various languages
