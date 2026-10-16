@@ -104,12 +104,21 @@ See [Keet Public Rooms](keet_rooms.md)
 > Require install [Keet](https://keet.io) to join the room
 > Can fork [keetlink](https://github.com/gasolin/keetlink) to share keet room invite via web (http)
 
-# WDK (Wallet Development Kit)
-- WDK by Tether is a modular, stateless, non-custodial wallet framework engineered to run across platforms using Bare and Holepunch protocols.
+### WDK (Wallet Development Kit)
+
+WDK by Tether is a modular, stateless, non-custodial wallet framework engineered to run across platforms using Bare and Holepunch protocols.
+
 - [WDK Core](https://github.com/tetherto/wdk) - The core orchestration framework for multi-chain non-custodial wallets featuring local transaction policy engines and modular chain managers.
 - [wdk-starter-react-native](https://github.com/tetherto/wdk-starter-react-native) - Reference non-custodial mobile wallet built with Expo, React Native, and Bare-runtime worklets.
 - [wdk-core-kotlin](https://github.com/tetherto/wdk-core-kotlin) - Android Kotlin library providing a clean Coroutine-based API for Tether WDK on top of Bare-kit.
 - [@tetherto/wdk-p2p-address-book](https://www.npmjs.com/package/@tetherto/wdk-p2p-address-book) - Distributed, encrypted P2P address book synchronization module built on Autobase.
+
+### QVAC Local AI
+
+QVAC is an open-source, local AI toolkit and runtime powered by Bare and Holepunch, running models directly on-device with zero server dependencies, no API keys, and no data leaving your machine.
+
+- [QVAC SDK](https://github.com/tetherto/qvac) - The canonical entry point and API for local AI inference across iOS, Android, macOS, Linux, and Windows.
+- [qvac-examples](https://github.com/tetherto/qvac-examples) - Collection of runnable on-device AI apps demonstrating practical local inference workflows
 
 ### Building Blocks
 
