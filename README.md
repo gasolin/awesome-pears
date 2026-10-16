@@ -104,6 +104,13 @@ See [Keet Public Rooms](keet_rooms.md)
 > Require install [Keet](https://keet.io) to join the room
 > Can fork [keetlink](https://github.com/gasolin/keetlink) to share keet room invite via web (http)
 
+# WDK (Wallet Development Kit)
+- WDK by Tether is a modular, stateless, non-custodial wallet framework engineered to run across platforms using Bare and Holepunch protocols.
+- [WDK Core](https://github.com/tetherto/wdk) - The core orchestration framework for multi-chain non-custodial wallets featuring local transaction policy engines and modular chain managers.
+- [wdk-starter-react-native](https://github.com/tetherto/wdk-starter-react-native) - Reference non-custodial mobile wallet built with Expo, React Native, and Bare-runtime worklets.
+- [wdk-core-kotlin](https://github.com/tetherto/wdk-core-kotlin) - Android Kotlin library providing a clean Coroutine-based API for Tether WDK on top of Bare-kit.
+- [@tetherto/wdk-p2p-address-book](https://www.npmjs.com/package/@tetherto/wdk-p2p-address-book) - Distributed, encrypted P2P address book synchronization module built on Autobase.
+
 ### Building Blocks
 
 - [hyperdht](https://docs.pears.com/building-blocks/hyperdht) - 1-on-1 connection by a public key, not by an IP [Tutorial](https://docs.pears.com/how-tos/connect-two-peers-by-key-with-hyperdht)
