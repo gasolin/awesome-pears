@@ -63,6 +63,7 @@ An UNOFFICIAL collection of awesome things regarding the Pears ecosystem.
 - [bare-expo](https://github.com/holepunchto/bare-expo) - Example of embedding Bare in an Expo application using bare-kit
 - https://github.com/jj10133/WhereFam-iOS - [IOS] Sharing location
 - https://peerloomllc.com/pearcal/ - [iOS/Android] Calendar/event sharing
+- https://github.com/Drache93/ghost-drive - Share local folders across devices over encrypted P2P connections
 
 ##### Android
 
@@ -73,6 +74,7 @@ An UNOFFICIAL collection of awesome things regarding the Pears ecosystem.
 
 - [bare-ios](https://github.com/holepunchto/bare-ios) - Example of embedding Bare in an iOS application
 - [hyperclip-ios](https://github.com/holepunchto/hyperclip-ios) - send clipboard content from Desktop to iOS
+- https://github.com/jj10133/WhereFam-iOS - [IOS] Sharing location
 
 #### Pears Terminal
 - Pear Runtime runs on [bare](https://github.com/holepunchto/bare), which is a cross-platform (including mobile) minimal JS runtime.
@@ -111,7 +113,7 @@ See [Keet Public Rooms](keet_rooms.md)
   - [P2P indexing and search Tutorial](https://github.com/hypercore-protocol/p2p-indexing-and-search)
   - [autobase](https://github.com/holepunchto/autobase) - multiwriter data structures with Hypercore
 - typescript type definition for hypercore and related modules - [1](https://github.com/digidem/digidem-types/tree/main/vendor) 
-[2](https://github.com/digidem/mapeo-core-next/tree/main/types)
+[2](https://github.com/digidem/mapeo-core-next/tree/main/types) [3](https://github.com/Drache93/holepunch-types)
 - [hyper-sdk](https://github.com/RangerMauve/hyper-sdk) - Software Development Kit for the hypercore-protocol
 - [nebula](https://github.com/Telios-org/nebula) - Nebula drives are real-time distributed storage for files and key value databases
 - [ouroboros](https://github.com/lejeunerenard/ouroboros) - define derived indexes on autobase hyperbees
